@@ -30,7 +30,11 @@ This is where you open Postman:
 1. **Specify the destination (URL):** In the main Postman input field, you type the full URL of your API endpoint: `http://localhost:3001/api/articles`.
 2. **Choose the method:** Your endpoint is designed to get data, so you select the `GET` method from the dropdown menu (other options are POST, PUT, DELETE, etc.).
 3. **Hit "Send":** You click the big "Send" button. Postman now sends that exact GET request to your running backend server, just as a web browser or your React app would.
+<<<<<<< HEAD
 4. **Inspect the Response :**
+=======
+4. **Inspect the Response (The "Magic"):**
+>>>>>>> 648285e61b79471ea901ddaf6deb439dde9aa99c
    - **Body:** You will see the raw JSON data that your server sent back. You can immediately check: Is the data there? Is it formatted correctly? Are all the article titles and links present?
    - **Status Code:** Postman will show you the HTTP status code. `200 OK` means everything worked! If you see `404 Not Found`, you know you have a typo in your URL. If you see `500 Internal Server Error`, you know the code inside your Express route handler has crashed.
    - **Headers:** You can inspect all the HTTP headers, which is useful for debugging things like caching or Content-Type.
