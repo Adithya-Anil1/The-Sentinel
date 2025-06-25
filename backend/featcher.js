@@ -1,5 +1,7 @@
 const Parser = require('rss-parser');
 const sources = require('./sources');
+const fs = require('fs/promises');
+const path = require('path');
 
 const parser = new Parser();
 
@@ -35,8 +37,14 @@ async function fetchAllArticles() {
     console.log(`Found ${categorizedArticles[category].length} articles in ${category}`);
   }
 
-  console.log('\n=== CATEGORIZED ARTICLES ===');
-  console.log(JSON.stringify(categorizedArticles, null, 2));
+  // Write the categorized articles to db.json file
+  try {
+    const dbPath = path.join(__dirname, 'db.json');
+    await fs.writeFile(dbPath, JSON.stringify(categorizedArticles, null, 2));
+    console.log('\n✅ Articles successfully saved to db.json');
+  } catch (error) {
+    console.error('❌ Error writing to db.json:', error.message);
+  }
   
   return categorizedArticles;
 }

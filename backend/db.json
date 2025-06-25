@@ -1,8 +1,573 @@
 {
-  "Technology & Science": [],
-  "World News": [],
-  "Business": [],
-  "Politics": [],
+  "Technology & Science": [
+    {
+      "title": "NASA to Welcome Fourth Private Astronaut Mission to Space Station",
+      "link": "https://www.nasa.gov/news-release/nasa-to-welcome-fourth-private-astronaut-mission-to-space-station/",
+      "pubDate": "Wed, 25 Jun 2025 07:11:12 +0000"
+    },
+    {
+      "title": "NASA Sets Coverage for Axiom Mission 4 Launch, Arrival at Station",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-4-launch-arrival-at-station-2/",
+      "pubDate": "Tue, 24 Jun 2025 17:52:01 +0000"
+    },
+    {
+      "title": "NASA Astronaut Zena Cardman",
+      "link": "https://www.nasa.gov/image-article/nasa-astronaut-zena-cardman/",
+      "pubDate": "Tue, 24 Jun 2025 17:08:08 +0000"
+    },
+    {
+      "title": "NICER Status Updates",
+      "link": "https://www.nasa.gov/missions/station/nicer-status-updates/",
+      "pubDate": "Tue, 24 Jun 2025 16:00:08 +0000"
+    },
+    {
+      "title": "Live or Fly a Plane in California? Help NASA Measure Ozone Pollution!",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/live-or-fly-a-plane-in-california-help-nasa-measure-ozone-pollution/",
+      "pubDate": "Tue, 24 Jun 2025 14:13:55 +0000"
+    },
+    {
+      "title": "NASA’s SLS Solid Rocket Boosters: What is DM-1?",
+      "link": "https://www.nasa.gov/image-article/nasas-sls-solid-rocket-boosters-what-is-dm-1/",
+      "pubDate": "Mon, 23 Jun 2025 19:09:33 +0000"
+    },
+    {
+      "title": "Mission Accomplished! Artemis ROADS III National Challenge Competitors Celebrate their Achievements",
+      "link": "https://science.nasa.gov/missions/artemis/mission-accomplished-artemis-roads-iii-national-challenge-competitors-celebrate-their-achievements/",
+      "pubDate": "Mon, 23 Jun 2025 17:27:54 +0000"
+    },
+    {
+      "title": "NASA’s Curiosity Mars Rover Starts Unpacking Boxwork Formations",
+      "link": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-starts-unpacking-boxwork-formations/",
+      "pubDate": "Mon, 23 Jun 2025 17:09:41 +0000"
+    },
+    {
+      "title": "A Martian Volcano in the Mist",
+      "link": "https://www.nasa.gov/image-article/a-martian-volcano-in-the-mist/",
+      "pubDate": "Mon, 23 Jun 2025 16:54:14 +0000"
+    },
+    {
+      "title": "Clay Minerals From Mars’ Most Ancient Past?",
+      "link": "https://science.nasa.gov/blog/clay-minerals-from-mars-most-ancient-past/",
+      "pubDate": "Mon, 23 Jun 2025 16:33:05 +0000"
+    }
+  ],
+  "World News": [
+    {
+      "title": "Six things to know about Iran's supreme leader",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5442496/what-to-know-iran-ayatollah-khamenei",
+      "pubDate": "Wed, 25 Jun 2025 05:00:00 -0400"
+    },
+    {
+      "title": "Why a war in the Middle East hasn't sparked an oil crisis",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5444030/oil-prices-iran-israel",
+      "pubDate": "Wed, 25 Jun 2025 05:00:00 -0400"
+    },
+    {
+      "title": "Israel's war with Iran is over, but its other war in Gaza grinds on",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5444000/israels-war-with-iran-is-over-but-its-other-war-in-gaza-grinds-on",
+      "pubDate": "Wed, 25 Jun 2025 04:17:44 -0400"
+    },
+    {
+      "title": "Activists in Venice say there's 'No Space For Bezos'",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5443643/activists-in-venice-say-theres-no-space-for-bezos",
+      "pubDate": "Wed, 25 Jun 2025 04:15:57 -0400"
+    },
+    {
+      "title": "Trump meets with NATO members at summit in the Netherlands",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5443661/trump-meets-with-nato-members-at-summit-in-the-netherlands",
+      "pubDate": "Wed, 25 Jun 2025 04:13:57 -0400"
+    },
+    {
+      "title": "A former Iranian diplomat on the state of Iran's nuclear program",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5442658/a-former-iranian-diplomat-on-the-state-of-irans-nuclear-program",
+      "pubDate": "Wed, 25 Jun 2025 04:12:53 -0400"
+    },
+    {
+      "title": "Brazilian tourist found dead after falling from an Indonesian volcano",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5444787/brazilian-tourist-indonesia-volcano",
+      "pubDate": "Wed, 25 Jun 2025 01:31:40 -0400"
+    },
+    {
+      "title": "Dealing with Iran's nuclear program requires tricky diplomacy. But there's low trust",
+      "link": "https://www.npr.org/2025/06/24/nx-s1-5442502/dealing-with-irans-nuclear-program-requires-tricky-diplomacy-but-theres-low-trust",
+      "pubDate": "Tue, 24 Jun 2025 18:18:59 -0400"
+    },
+    {
+      "title": "Senator shares early intelligence on state of Iranian nuclear program",
+      "link": "https://www.npr.org/2025/06/24/nx-s1-5444008/senator-shares-early-intelligence-on-state-of-iranian-nuclear-program",
+      "pubDate": "Tue, 24 Jun 2025 17:37:10 -0400"
+    },
+    {
+      "title": "A Possible Iran-Israel Ceasefire and Why China is Watching the War Closely",
+      "link": "https://www.npr.org/2025/06/24/1254640139/a-possible-iran-israel-ceasefire-and-why-china-is-watching-the-war-closely",
+      "pubDate": "Tue, 24 Jun 2025 17:02:20 -0400"
+    }
+  ],
+  "Business": [
+    {
+      "title": "My friend asked me to pay $1,600 for her son’s prom-night limo. Has the world gone mad?",
+      "link": "https://www.marketwatch.com/story/my-friend-asked-me-to-pay-1-600-for-her-sons-prom-night-limo-has-the-world-gone-mad-92e4c1c8?mod=mw_rss_topstories",
+      "pubDate": "Wed, 25 Jun 2025 09:45:00 GMT"
+    },
+    {
+      "title": "After key conference, here’s how the race to a $150 billion weight-loss drug market is shaping up",
+      "link": "https://www.marketwatch.com/story/after-key-conference-heres-how-the-race-to-a-150-billion-weight-loss-drug-market-is-shaping-up-fcf7d9fd?mod=mw_rss_topstories",
+      "pubDate": "Wed, 25 Jun 2025 09:43:00 GMT"
+    },
+    {
+      "title": "My job is offering me a payout. Should I take a $61,000 lump sum or $355 a month for life?",
+      "link": "https://www.marketwatch.com/story/im-49-and-have-no-debt-except-for-a-mortgage-should-i-take-a-61-000-lump-sum-or-355-a-month-for-life-7752f1c6?mod=mw_rss_topstories",
+      "pubDate": "Wed, 25 Jun 2025 09:10:00 GMT"
+    },
+    {
+      "title": "My cousin died before claiming his late father’s $2 million estate. Will I be next in line?",
+      "link": "https://www.marketwatch.com/story/my-cousin-died-before-claiming-his-late-fathers-2-million-estate-will-i-get-it-79576ff3?mod=mw_rss_topstories",
+      "pubDate": "Wed, 25 Jun 2025 09:05:00 GMT"
+    },
+    {
+      "title": "Cows on the roof? How to build a real-estate empire, Barbara Corcoran style.",
+      "link": "https://www.marketwatch.com/story/cows-on-the-roof-how-to-build-a-real-estate-empire-barbara-corcoran-style-6779df8b?mod=mw_rss_topstories",
+      "pubDate": "Wed, 25 Jun 2025 09:02:00 GMT"
+    },
+    {
+      "title": "Big investors are turning their focus back to U.S. after a run of European outperformance",
+      "link": "https://www.marketwatch.com/story/big-investors-are-turning-their-focus-back-to-u-s-after-a-run-of-european-outperformance-e9dd6b98?mod=mw_rss_topstories",
+      "pubDate": "Wed, 25 Jun 2025 08:23:00 GMT"
+    },
+    {
+      "title": "Two ETFs that have beaten value stock indexes with this simple approach",
+      "link": "https://www.marketwatch.com/story/two-etfs-that-have-beaten-value-stock-indexes-with-this-simple-approach-b567f58c?mod=mw_rss_topstories",
+      "pubDate": "Wed, 25 Jun 2025 01:42:00 GMT"
+    },
+    {
+      "title": "Apple was one of the few stocks down Tuesday. Why acquiring Perplexity could be key.",
+      "link": "https://www.marketwatch.com/story/why-apple-potentially-acquiring-perplexity-could-be-big-news-for-its-stock-4d352b39?mod=mw_rss_topstories",
+      "pubDate": "Wed, 25 Jun 2025 01:20:00 GMT"
+    },
+    {
+      "title": "FedEx hopes to save $1 billion this fiscal year. But its profit forecast is still sinking shares, as tariffs weigh on shipments.",
+      "link": "https://www.marketwatch.com/story/fedex-hopes-to-save-1-billion-this-fiscal-year-but-its-forecast-is-sinking-shares-d7322bf1?mod=mw_rss_topstories",
+      "pubDate": "Wed, 25 Jun 2025 00:18:00 GMT"
+    },
+    {
+      "title": "‘He doesn’t seem to care’: My secretive father, 81, added my name to a bank account. What about my mom?",
+      "link": "https://www.marketwatch.com/story/he-doesnt-seem-to-care-my-secretive-father-81-added-my-name-to-a-bank-account-what-about-my-mom-548dd73e?mod=mw_rss_topstories",
+      "pubDate": "Wed, 25 Jun 2025 00:10:00 GMT"
+    }
+  ],
+  "Politics": [
+    {
+      "title": "Why America's giant bunker-busting bombs may have failed to reach their target",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5444307/did-america-bunker-busting-bombs-fail-reach-iran-nuclear-target",
+      "pubDate": "Wed, 25 Jun 2025 05:00:00 -0400"
+    },
+    {
+      "title": "Trump's pick for appeals judge seen as 'ill-suited' to lifetime appointment",
+      "link": "https://www.npr.org/2025/06/25/g-s1-74064/trump-emil-bove-judge-nomination",
+      "pubDate": "Wed, 25 Jun 2025 05:00:00 -0400"
+    },
+    {
+      "title": "Rep. Mike Quigley on intel suggesting limited damage to Iran's nuclear program",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5443639/rep-mike-quigley-on-intel-suggesting-limited-damage-to-irans-nuclear-program",
+      "pubDate": "Wed, 25 Jun 2025 04:19:00 -0400"
+    },
+    {
+      "title": "Trump's pick for appeals judge draws controversy",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5437823/trumps-pick-for-appeals-judge-draws-controversy",
+      "pubDate": "Wed, 25 Jun 2025 04:11:33 -0400"
+    },
+    {
+      "title": "Zohran Mamdani set to defeat Cuomo in NYC mayoral primary upset",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5444734/zohran-mamdani-set-to-defeat-cuomo-in-nyc-mayoral-primary-upset",
+      "pubDate": "Wed, 25 Jun 2025 04:11:09 -0400"
+    },
+    {
+      "title": "Dispatches from the living memory of trans people of color",
+      "link": "https://www.npr.org/2025/06/25/1254697882/dispatches-from-the-living-memory-of-trans-people-of-color",
+      "pubDate": "Wed, 25 Jun 2025 03:00:59 -0400"
+    },
+    {
+      "title": "Early intel assessment says Iran's nuclear program was only set back 'a few months'",
+      "link": "https://www.npr.org/2025/06/24/nx-s1-5444303/iran-nuclear-program-u-s-strikes-intelligence-assessment",
+      "pubDate": "Tue, 24 Jun 2025 17:41:02 -0400"
+    },
+    {
+      "title": "Trump billed himself as a peacemaker, but 3 separate conflicts tell a different story",
+      "link": "https://www.npr.org/2025/06/24/nx-s1-5443548/trump-billed-himself-as-a-peacemaker-but-3-separate-conflicts-tell-a-different-story",
+      "pubDate": "Tue, 24 Jun 2025 17:00:29 -0400"
+    },
+    {
+      "title": "Proposal to sell millions of acres of public lands may be cut from Trump's mega-bill",
+      "link": "https://www.npr.org/2025/06/24/nx-s1-5442481/proposal-to-sell-millions-of-acres-of-public-lands-may-be-cut-from-trumps-mega-bill",
+      "pubDate": "Tue, 24 Jun 2025 16:46:14 -0400"
+    },
+    {
+      "title": "What to know about 'Alligator Alcatraz,' Florida migrant detention center in progress",
+      "link": "https://www.npr.org/2025/06/24/nx-s1-5443268/alligator-alcatraz-florida-everglades-migrant-detention-center",
+      "pubDate": "Tue, 24 Jun 2025 13:56:16 -0400"
+    }
+  ],
   "Weather": [],
-  "Stocks": []
+  "Stocks": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures keep record highs in sight as Mideast ceasefire holds",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-record-highs-in-sight-as-mideast-ceasefire-holds-225441404.html",
+      "pubDate": "2025-06-24T22:54:41Z"
+    },
+    {
+      "title": "Palantir's surge to leave its mark on Russell reshuffle",
+      "link": "https://finance.yahoo.com/news/palantirs-surge-leave-mark-russell-101300838.html",
+      "pubDate": "2025-06-25T10:13:00Z"
+    },
+    {
+      "title": "North America to spearhead worldwide ammonia capacity additions through 2030",
+      "link": "https://finance.yahoo.com/news/north-america-spearhead-worldwide-ammonia-100923581.html",
+      "pubDate": "2025-06-25T10:09:23Z"
+    },
+    {
+      "title": "Fed kicks off effort to ease bank leverage rules",
+      "link": "https://finance.yahoo.com/news/fed-kicks-off-effort-ease-100359744.html",
+      "pubDate": "2025-06-25T10:03:59Z"
+    },
+    {
+      "title": "Best high-yield savings interest rates today, June 25, 2025 (Earn up to 4.31% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield--savings-interest-rates-today-wednesday-june-25-2025-100058268.html",
+      "pubDate": "2025-06-25T10:00:58Z"
+    },
+    {
+      "title": "HELOC rates today, June 25, 2025: Home equity line of credit rates decline slightly",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-rates-today-wednesday-june-25-2025-100036131.html",
+      "pubDate": "2025-06-25T10:00:36Z"
+    },
+    {
+      "title": "Best CD rates today, June 25, 2025 (Lock in up to 5.5% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-june-25-2025-100032143.html",
+      "pubDate": "2025-06-25T10:00:32Z"
+    },
+    {
+      "title": "TipRanks’ ‘Perfect 10’ Picks: 2 Top-Scoring Stocks That Are Ticking Every Box",
+      "link": "https://finance.yahoo.com/news/tipranks-perfect-10-picks-2-100114601.html",
+      "pubDate": "2025-06-25T10:01:14Z"
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, June 25, 2025: Dropping as deficit concerns grow",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-wednesday-june-25-2025-100011806.html",
+      "pubDate": "2025-06-25T10:00:11Z"
+    },
+    {
+      "title": "Best money market account rates today, June 25, 2025 (secure up to 4.41% APY)",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-june-25-2025-100012153.html",
+      "pubDate": "2025-06-25T10:00:12Z"
+    },
+    {
+      "title": "Bitcoin Price Rises. The Crypto Is Being Boosted by These 2 Factors Today.",
+      "link": "https://www.barrons.com/articles/bitcoin-price-crypto-iran-israel-dollar-2451c206?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-25T09:39:00Z"
+    },
+    {
+      "title": "Dollar drops on Middle East optimism, euro highest since 2021",
+      "link": "https://finance.yahoo.com/news/dollar-falls-broad-risk-rally-001135942.html",
+      "pubDate": "2025-06-24T00:11:35Z"
+    },
+    {
+      "title": "$10B Bleakley Adds Advisor Coach Ray Sclafani to Board of Directors",
+      "link": "https://finance.yahoo.com/news/10b-bleakley-adds-advisor-coach-100000196.html",
+      "pubDate": "2025-06-25T10:00:00Z"
+    },
+    {
+      "title": "Cease-Fire Sends Oil Prices Even Lower",
+      "link": "https://www.wsj.com/livecoverage/iran-israel-us-latest-news/card/cease-fire-sends-oil-prices-even-lower-ms5Rv3wsfHMlHYSfs5e8?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-23T23:41:01Z"
+    },
+    {
+      "title": "Nissan shareholders assail management over deepening crisis",
+      "link": "https://finance.yahoo.com/news/crisis-hit-nissan-braced-scrutiny-005543832.html",
+      "pubDate": "2025-06-24T00:55:43Z"
+    },
+    {
+      "title": "Adani's Mumbai Airport inks $750 million deal with Apollo-led investor group",
+      "link": "https://finance.yahoo.com/news/adanis-mumbai-airport-inks-750-005606016.html",
+      "pubDate": "2025-06-24T00:56:06Z"
+    },
+    {
+      "title": "$6.5B RFG Advisory Launches Suite of Active ETFs",
+      "link": "https://finance.yahoo.com/news/6-5b-rfg-advisory-launches-100000347.html",
+      "pubDate": "2025-06-25T10:00:00Z"
+    },
+    {
+      "title": "Shares hit record high, oil plummets with market sentiment buoyed by Iran-Israel truce",
+      "link": "https://finance.yahoo.com/news/shares-cheered-asia-trump-announces-233355881.html",
+      "pubDate": "2025-06-23T23:33:55Z"
+    },
+    {
+      "title": "Cease-Fire Announcement Sends Oil Prices Even Lower",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-trump-tariffs-trade-war-06-23-2025/card/oil-futures-sink-following-attacks-on-u-s-bases-eNo7sI66C2uFPtLz1hF9?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-23T23:32:45Z"
+    },
+    {
+      "title": "Seeking Passive Income? This Dividend Stock Yields 9.6%.",
+      "link": "https://finance.yahoo.com/news/seeking-passive-income-dividend-stock-233002143.html",
+      "pubDate": "2025-06-23T23:30:02Z"
+    },
+    {
+      "title": "KB Home Earnings Beat Wall Street Forecast. The Stock Is Falling Because of Guidance.",
+      "link": "https://www.barrons.com/articles/kb-home-to-report-second-quarter-earnings-results-could-be-choppy-181a8f19?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-23T23:30:00Z"
+    },
+    {
+      "title": "Cherry Bekaert appoints Dan Wheadon as CFO Advisory Leader",
+      "link": "https://finance.yahoo.com/news/cherry-bekaert-appoints-dan-wheadon-095359498.html",
+      "pubDate": "2025-06-25T09:53:59Z"
+    },
+    {
+      "title": "Starbucks says it is not currently considering a full sale of its China operations",
+      "link": "https://finance.yahoo.com/news/starbucks-says-not-currently-considering-013455348.html",
+      "pubDate": "2025-06-24T01:34:55Z"
+    },
+    {
+      "title": "Commentary: Oil isn’t the economic weapon it used to be",
+      "link": "https://finance.yahoo.com/news/commentary-oil-isnt-the-economic-weapon-it-used-to-be-230718895.html",
+      "pubDate": "2025-06-23T23:07:18Z"
+    },
+    {
+      "title": "Exclusive-China auto industry inflates sales by exporting new cars as 'used'",
+      "link": "https://finance.yahoo.com/news/exclusive-local-chinese-governments-promote-230300964.html",
+      "pubDate": "2025-06-23T23:03:00Z"
+    },
+    {
+      "title": "Dow Jones Futures: Cathie Wood Stocks Circle, Tesla Surge; Powell Speech Next",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cathie-wood-circle-crcl-tesla-tsla-powell/?src=A00220&yptr=yahoo",
+      "pubDate": "2025-06-24T01:58:16Z"
+    },
+    {
+      "title": "Could Berkshire Hathaway Stock Double By 2030, Even Without Warren Buffett?",
+      "link": "https://finance.yahoo.com/news/could-berkshire-hathaway-stock-double-095100590.html",
+      "pubDate": "2025-06-25T09:51:00Z"
+    },
+    {
+      "title": "KB Home Cuts Outlook as Profit, Sales Fall",
+      "link": "https://www.wsj.com/business/earnings/kb-home-cuts-outlook-as-profit-sales-fall-85c5aeb9?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-23T22:55:00Z"
+    },
+    {
+      "title": "FTC Approves Omnicom-IPG Merger After Ad Giants Pledge Not to Boycott Over Politics",
+      "link": "https://www.wsj.com/articles/ftc-approves-omnicom-ipg-merger-after-ad-giants-pledge-not-to-boycott-over-politics-acae4323?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-23T22:54:00Z"
+    },
+    {
+      "title": "Investors react to news of Iran-Israel ceasefire",
+      "link": "https://finance.yahoo.com/news/instant-view-investors-react-trump-224335253.html",
+      "pubDate": "2025-06-23T22:43:35Z"
+    },
+    {
+      "title": "Is Palantir Stock Outperforming the Dow?",
+      "link": "https://finance.yahoo.com/news/palantir-stock-outperforming-dow-093323743.html",
+      "pubDate": "2025-06-25T09:33:23Z"
+    },
+    {
+      "title": "Trimble, TDK’s advanced navigation solution to enhance automotive positioning",
+      "link": "https://finance.yahoo.com/news/trimble-tdk-advanced-navigation-solution-094931747.html",
+      "pubDate": "2025-06-25T09:49:31Z"
+    },
+    {
+      "title": "Goldman Sachs Initiates Coverage on Hormel with a Buy Rating",
+      "link": "https://finance.yahoo.com/news/goldman-sachs-initiates-coverage-hormel-021146286.html",
+      "pubDate": "2025-06-24T02:11:46Z"
+    },
+    {
+      "title": "ADM: A Longstanding Dividend Payer in the Agriculture Sector",
+      "link": "https://finance.yahoo.com/news/adm-longstanding-dividend-payer-agriculture-021522247.html",
+      "pubDate": "2025-06-24T02:15:22Z"
+    },
+    {
+      "title": "Experian Chooses Amazon (AMZN) AWS to Power Its Cloud and AI Transformation",
+      "link": "https://finance.yahoo.com/news/experian-chooses-amazon-amzn-aws-223509311.html",
+      "pubDate": "2025-06-23T22:35:09Z"
+    },
+    {
+      "title": "IVV Tops Inflows With $1B Haul, QQQ Gains $793M",
+      "link": "https://finance.yahoo.com/news/ivv-tops-inflows-1b-haul-223300103.html",
+      "pubDate": "2025-06-23T22:33:00Z"
+    },
+    {
+      "title": "QDOBA restaurant expands with 800th location in Florida",
+      "link": "https://finance.yahoo.com/news/qdoba-restaurant-expands-800th-location-094638103.html",
+      "pubDate": "2025-06-25T09:46:38Z"
+    },
+    {
+      "title": "Uber Expands AI Solutions Platform to 30 Countries With New Training Tools",
+      "link": "https://finance.yahoo.com/news/uber-expands-ai-solutions-platform-223233680.html",
+      "pubDate": "2025-06-23T22:32:33Z"
+    },
+    {
+      "title": "How One Toy Maker Is Dealing With Trump’s Trade War",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-trump-tariffs-trade-war-06-23-2025/card/how-one-toy-maker-is-dealing-with-trump-s-trade-war-OJKRsZwD2sGSTzJlLH6z?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-23T22:30:01Z"
+    },
+    {
+      "title": "Analyst Report: Public Serv Enterprise Grp Inc",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3301_AnalystReport_1750783568000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "pubDate": "2025-06-24T16:46:08Z"
+    },
+    {
+      "title": "Salesforce’s (CRM) AI Push Gains Momentum With New Pricing Strategy",
+      "link": "https://finance.yahoo.com/news/salesforce-crm-ai-push-gains-222920549.html",
+      "pubDate": "2025-06-23T22:29:20Z"
+    },
+    {
+      "title": "Tesla’s (TSLA) AI Future Could Add $1 Trillion in Value, Says Dan Ives",
+      "link": "https://finance.yahoo.com/news/tesla-tsla-ai-future-could-222630980.html",
+      "pubDate": "2025-06-23T22:26:30Z"
+    },
+    {
+      "title": "Jobless claims stay low in latest week",
+      "link": "https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse",
+      "pubDate": "Thu, 13 Feb 2025 13:33:00 GMT"
+    },
+    {
+      "title": "Consumer credit growth soars in December",
+      "link": "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
+      "pubDate": "Fri, 07 Feb 2025 20:26:00 GMT"
+    },
+    {
+      "title": "U.S. productivity slows down in fourth quarter while unit labor costs accelerate",
+      "link": "https://www.marketwatch.com/story/u-s-productivity-slows-down-in-fourth-quarter-while-unit-labor-costs-accelerate-3c2b9092?mod=mw_rss_marketpulse",
+      "pubDate": "Thu, 06 Feb 2025 13:34:00 GMT"
+    },
+    {
+      "title": "Beyond to buy rights to Buy Buy Baby brand and reunite it with Bed Bath & Beyond",
+      "link": "https://www.marketwatch.com/story/beyond-to-buy-rights-to-buy-buy-baby-brand-and-reunite-it-with-bed-bath-beyond-4383c6be?mod=mw_rss_marketpulse",
+      "pubDate": "Mon, 03 Feb 2025 13:46:00 GMT"
+    },
+    {
+      "title": "Trump asks Supreme Court to pause TikTok ban",
+      "link": "https://www.marketwatch.com/story/trump-asks-supreme-court-to-pause-tiktok-ban-2b724ae6?mod=mw_rss_marketpulse",
+      "pubDate": "Sat, 28 Dec 2024 00:32:00 GMT"
+    },
+    {
+      "title": "Amazon says it had best-ever Thanksgiving Holiday week with record sales and number of items sold",
+      "link": "https://www.marketwatch.com/story/amazon-says-it-had-best-ever-thanksgiving-holiday-week-with-record-sales-and-number-of-items-sold-786e0143?mod=mw_rss_marketpulse",
+      "pubDate": "Tue, 03 Dec 2024 14:05:00 GMT"
+    },
+    {
+      "title": "U.S. stock futures and bond yields drop on reports Putin has updated nuclear doctrine",
+      "link": "https://www.marketwatch.com/story/u-s-stock-futures-and-bond-yields-drop-on-reports-putin-has-updated-nuclear-doctrine-4b9792c4?mod=mw_rss_marketpulse",
+      "pubDate": "Tue, 19 Nov 2024 08:55:00 GMT"
+    },
+    {
+      "title": "Charter Communications announces buyout deal for Liberty Broadband at terms above its previous proposal",
+      "link": "https://www.marketwatch.com/story/charter-communications-announces-buyout-deal-for-liberty-broadband-at-terms-above-its-previous-proposal-552f7acd?mod=mw_rss_marketpulse",
+      "pubDate": "Wed, 13 Nov 2024 13:52:00 GMT"
+    },
+    {
+      "title": "General Motors unveils new all-electric Cadillac called the Vistiq with 300-mile range",
+      "link": "https://www.marketwatch.com/story/general-motors-unveils-new-all-electric-cadillac-called-the-vistiq-with-300-mile-range-c16fb8a6?mod=mw_rss_marketpulse",
+      "pubDate": "Tue, 12 Nov 2024 13:53:00 GMT"
+    },
+    {
+      "title": "Vestas Wind Systems stock slumps as company says margins to be at low end of guidance",
+      "link": "https://www.marketwatch.com/story/vestas-wind-systems-stock-slumps-as-company-says-margins-to-be-at-low-end-of-guidance-a33bf5c4?mod=mw_rss_marketpulse",
+      "pubDate": "Tue, 05 Nov 2024 08:39:00 GMT"
+    },
+    {
+      "title": "Burberry shares rise on report Moncler could bid for it",
+      "link": "https://www.marketwatch.com/story/burberry-shares-rise-on-report-moncler-could-bid-for-it-9de42b98?mod=mw_rss_marketpulse",
+      "pubDate": "Mon, 04 Nov 2024 08:36:00 GMT"
+    },
+    {
+      "title": "Kazatomprom reports 17% increase in production during the third quarter",
+      "link": "https://www.marketwatch.com/story/kazatomprom-reports-17-increase-in-production-during-the-third-quarter-68742d5c?mod=mw_rss_marketpulse",
+      "pubDate": "Fri, 01 Nov 2024 07:36:00 GMT"
+    },
+    {
+      "title": "Anheuser-Busch InBev shares slip as sales come up shy of estimates",
+      "link": "https://www.marketwatch.com/story/anheuser-busch-inbev-shares-slip-as-sales-come-up-shy-of-estimates-508282c4?mod=mw_rss_marketpulse",
+      "pubDate": "Thu, 31 Oct 2024 08:09:00 GMT"
+    },
+    {
+      "title": "Wingstop’s stock slides 12% after profit falls short of estimates",
+      "link": "https://www.marketwatch.com/story/wingstops-stock-slides-12-after-profit-falls-short-of-estimates-1146f0ec?mod=mw_rss_marketpulse",
+      "pubDate": "Wed, 30 Oct 2024 12:22:00 GMT"
+    },
+    {
+      "title": "Novartis hikes sales and profit guidance for the year",
+      "link": "https://www.marketwatch.com/story/novartis-hikes-sales-and-profit-guidance-for-the-year-eed24ebf?mod=mw_rss_marketpulse",
+      "pubDate": "Tue, 29 Oct 2024 07:08:00 GMT"
+    },
+    {
+      "title": "Plus500 says it will meet expectations after quarterly revenue climbs 11%",
+      "link": "https://www.marketwatch.com/story/plus500-says-it-will-meet-expectations-after-quarterly-revenue-climbs-11-b68b5ef1?mod=mw_rss_marketpulse",
+      "pubDate": "Mon, 28 Oct 2024 07:14:00 GMT"
+    },
+    {
+      "title": "Trainline boosts guidance for the second time this year",
+      "link": "https://www.marketwatch.com/story/trainline-boosts-guidance-for-the-second-time-this-year-513373f6?mod=mw_rss_marketpulse",
+      "pubDate": "Mon, 28 Oct 2024 07:08:00 GMT"
+    },
+    {
+      "title": "Barclays reports 18% profit rise as it lifts income guidance",
+      "link": "https://www.marketwatch.com/story/barclays-reports-18-profit-rise-as-it-lifts-income-guidance-ceef3caf?mod=mw_rss_marketpulse",
+      "pubDate": "Thu, 24 Oct 2024 06:41:00 GMT"
+    },
+    {
+      "title": "London Stock Exchange Group says income grew, led by Tradeweb",
+      "link": "https://www.marketwatch.com/story/london-stock-exchange-group-says-income-grew-led-by-tradeweb-65d00f97?mod=mw_rss_marketpulse",
+      "pubDate": "Thu, 24 Oct 2024 06:28:00 GMT"
+    },
+    {
+      "title": "Nobel economics prize awarded to three who studied wealth of nations",
+      "link": "https://www.marketwatch.com/story/nobel-economics-prize-awarded-to-three-who-studied-wealth-of-nations-b1a391ba?mod=mw_rss_marketpulse",
+      "pubDate": "Mon, 14 Oct 2024 09:53:00 GMT"
+    },
+    {
+      "title": "Nobel Peace Prize awarded to Japanese atomic bomb survivors",
+      "link": "https://www.marketwatch.com/story/nobel-peace-prize-awarded-to-japanese-atomic-bomb-survivors-d14639d7?mod=mw_rss_marketpulse",
+      "pubDate": "Fri, 11 Oct 2024 09:05:00 GMT"
+    },
+    {
+      "title": "DirecTV to acquire EchoStar’s video distribution business including Dish TV and Sling TV",
+      "link": "https://www.marketwatch.com/story/directv-to-acquire-echostars-video-distribution-business-including-dish-tv-and-sling-tv-23349832?mod=mw_rss_marketpulse",
+      "pubDate": "Mon, 30 Sep 2024 11:15:00 GMT"
+    },
+    {
+      "title": "Moody’s places all of Boeing’s ratings on review for a downgrade",
+      "link": "https://www.marketwatch.com/story/moodys-places-all-of-boeings-ratings-on-review-for-a-downgrade-be242697?mod=mw_rss_marketpulse",
+      "pubDate": "Fri, 13 Sep 2024 17:02:00 GMT"
+    },
+    {
+      "title": "Microsoft to lay off 650 people from videogame business: WSJ",
+      "link": "https://www.marketwatch.com/story/microsoft-to-lay-off-650-people-from-videogame-business-wsj-72135ba9?mod=mw_rss_marketpulse",
+      "pubDate": "Thu, 12 Sep 2024 11:47:00 GMT"
+    },
+    {
+      "title": "ArcBest misses profit expectations, as soft rate environment weighed on revenue",
+      "link": "https://www.marketwatch.com/story/arcbest-misses-profit-expectations-as-soft-rate-environment-weighed-on-revenue-4461160b?mod=mw_rss_marketpulse",
+      "pubDate": "Fri, 02 Aug 2024 10:14:00 GMT"
+    },
+    {
+      "title": "Alibaba stock climbs on report of vendor service fee increase",
+      "link": "https://www.marketwatch.com/story/alibaba-stock-climbs-on-report-of-vendor-service-fee-increase-db9d1854?mod=mw_rss_marketpulse",
+      "pubDate": "Mon, 29 Jul 2024 11:43:00 GMT"
+    },
+    {
+      "title": "European stocks open lower after weak Wall Street finish, computer outages",
+      "link": "https://www.marketwatch.com/story/european-stocks-open-lower-after-weak-wall-street-finish-computer-outages-a57c53a7?mod=mw_rss_marketpulse",
+      "pubDate": "Fri, 19 Jul 2024 07:08:00 GMT"
+    },
+    {
+      "title": "Wholesale inventories in U.S. rise 0.1% in April",
+      "link": "https://www.marketwatch.com/story/wholesale-inventories-in-u-s-rise-0-1-in-april-36e6a92d?mod=mw_rss_marketpulse",
+      "pubDate": "Fri, 07 Jun 2024 14:14:00 GMT"
+    },
+    {
+      "title": "Hibbett shares fall as Q1 sales miss analysts’ estimate",
+      "link": "https://www.marketwatch.com/story/hibbett-shares-fall-as-q1-sales-miss-analysts-estimate-801a7cb0?mod=mw_rss_marketpulse",
+      "pubDate": "Wed, 05 Jun 2024 11:34:00 GMT"
+    },
+    {
+      "title": "Business inventories drop 0.1% in March",
+      "link": "https://www.marketwatch.com/story/business-inventories-drop-0-1-in-march-bc9aae3a?mod=mw_rss_marketpulse",
+      "pubDate": "Wed, 15 May 2024 14:13:00 GMT"
+    }
+  ]
 }
