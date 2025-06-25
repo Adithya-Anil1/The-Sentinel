@@ -22,6 +22,21 @@ function App() {
   return (
     <div>
       <h1>Project Sentinel News</h1>
+      
+      {Object.keys(articles).map((category) => (
+        <div key={category}>
+          <h2>{category}</h2>
+          <ul>
+            {articles[category].map((article, index) => (
+              <li key={index}>
+                <a href={article.link} target="_blank" rel="noopener noreferrer">
+                  {article.title}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
     </div>
   )
 }
