@@ -63,13 +63,13 @@
       "pubDate": "Wed, 25 Jun 2025 07:00:00 -0400"
     },
     {
-      "title": "Why a war in the Middle East hasn't sparked an oil crisis",
-      "link": "https://www.npr.org/2025/06/25/nx-s1-5444030/oil-prices-iran-israel",
+      "title": "Six things to know about Iran's supreme leader",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5442496/what-to-know-iran-ayatollah-khamenei",
       "pubDate": "Wed, 25 Jun 2025 05:00:00 -0400"
     },
     {
-      "title": "Six things to know about Iran's supreme leader",
-      "link": "https://www.npr.org/2025/06/25/nx-s1-5442496/what-to-know-iran-ayatollah-khamenei",
+      "title": "Why a war in the Middle East hasn't sparked an oil crisis",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5444030/oil-prices-iran-israel",
       "pubDate": "Wed, 25 Jun 2025 05:00:00 -0400"
     },
     {
@@ -104,6 +104,11 @@
     }
   ],
   "Business": [
+    {
+      "title": "Cheerios parent General Mills will sacrifice some profit to drive sales, and the stock is dropping",
+      "link": "https://www.marketwatch.com/story/cheerios-parent-general-mills-will-sacrifice-some-profit-to-drive-sales-and-the-stock-is-dropping-74919f1a?mod=mw_rss_topstories",
+      "pubDate": "Wed, 25 Jun 2025 13:13:00 GMT"
+    },
     {
       "title": "The next great WFH trend will be ‘War from Home,’ says this strategist",
       "link": "https://www.marketwatch.com/story/the-next-great-wfh-trend-will-be-war-from-home-says-this-strategist-18897c02?mod=mw_rss_topstories",
@@ -148,11 +153,6 @@
       "title": "My job is offering me a payout. Should I take a $61,000 lump sum or $355 a month for life?",
       "link": "https://www.marketwatch.com/story/im-49-and-have-no-debt-except-for-a-mortgage-should-i-take-a-61-000-lump-sum-or-355-a-month-for-life-7752f1c6?mod=mw_rss_topstories",
       "pubDate": "Wed, 25 Jun 2025 09:10:00 GMT"
-    },
-    {
-      "title": "My cousin died before claiming his late father’s $2 million estate. Will I be next in line?",
-      "link": "https://www.marketwatch.com/story/my-cousin-died-before-claiming-his-late-fathers-2-million-estate-will-i-get-it-79576ff3?mod=mw_rss_topstories",
-      "pubDate": "Wed, 25 Jun 2025 09:05:00 GMT"
     }
   ],
   "Politics": [
@@ -162,13 +162,13 @@
       "pubDate": "Wed, 25 Jun 2025 07:00:00 -0400"
     },
     {
-      "title": "Why America's giant bunker-busting bombs may have failed to reach their target",
-      "link": "https://www.npr.org/2025/06/25/nx-s1-5444307/did-america-bunker-busting-bombs-fail-reach-iran-nuclear-target",
+      "title": "Trump's appeals judge nominee to face tough questions in Senate",
+      "link": "https://www.npr.org/2025/06/25/g-s1-74064/trump-emil-bove-judge-nomination",
       "pubDate": "Wed, 25 Jun 2025 05:00:00 -0400"
     },
     {
-      "title": "Trump's appeals judge nominee to face tough questions in Senate",
-      "link": "https://www.npr.org/2025/06/25/g-s1-74064/trump-emil-bove-judge-nomination",
+      "title": "Why America's giant bunker-busting bombs may have failed to reach their target",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5444307/did-america-bunker-busting-bombs-fail-reach-iran-nuclear-target",
       "pubDate": "Wed, 25 Jun 2025 05:00:00 -0400"
     },
     {
@@ -210,9 +210,49 @@
   "Weather": [],
   "Stocks": [
     {
-      "title": "The US food and drinks industry needs immigrant labour – but the system requires reform",
-      "link": "https://finance.yahoo.com/news/us-food-drinks-industry-needs-125855011.html",
-      "pubDate": "2025-06-25T12:58:55Z"
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures hold steady with record highs still in reach",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hold-steady-with-record-highs-still-in-reach-225441782.html",
+      "pubDate": "2025-06-24T22:54:41Z"
+    },
+    {
+      "title": "Jim Leighton takes helm at Village Gourmet",
+      "link": "https://finance.yahoo.com/news/jim-leighton-takes-helm-village-132524905.html",
+      "pubDate": "2025-06-25T13:25:24Z"
+    },
+    {
+      "title": "Stock Market Today: Indexes Strive For Gains Ahead Of More Powell Testimony; FedEx Dives On Earnings (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-powell/?src=A00220&yptr=yahoo",
+      "pubDate": "2025-06-25T13:10:36Z"
+    },
+    {
+      "title": "Nvidia Stock Set to Open Near Record High. Here’s What Could Keep It There.",
+      "link": "https://www.barrons.com/articles/nvidia-stock-price-record-high-adf5eed6?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-25T13:08:00Z"
+    },
+    {
+      "title": "Rubrik Stock Is Rising. An Acquisition Will Bolster Its AI Offerings.",
+      "link": "https://www.barrons.com/articles/rubrik-ai-stockk-predibase-ced2df98?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-25T13:08:00Z"
+    },
+    {
+      "title": "Analyst Report: Dow Inc",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_4899_AnalystReport_1750849687000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "pubDate": "2025-06-25T11:08:07Z"
+    },
+    {
+      "title": "Surface mining: assessing global equipment trends",
+      "link": "https://finance.yahoo.com/news/surface-mining-assessing-global-equipment-132031046.html",
+      "pubDate": "2025-06-25T13:20:31Z"
+    },
+    {
+      "title": "This Defense Stock Is Jumping After Sales Soar 40%",
+      "link": "https://www.barrons.com/articles/aerovironment-earnings-stock-price-d7c9eed9?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-25T13:00:00Z"
+    },
+    {
+      "title": "SoFi Plans Return to Crypto With Blockchain Initiative. Bitcoin Trading Is Coming.",
+      "link": "https://www.barrons.com/articles/sofi-bitcoin-crypto-blockchain-3ddc4610?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-25T13:00:00Z"
     },
     {
       "title": "Santander to sell seven Pennsylvania branches to Community Bank",
@@ -220,14 +260,9 @@
       "pubDate": "2025-06-25T12:52:00Z"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures hold steady with record highs still in reach",
-      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hold-steady-with-record-highs-still-in-reach-225441782.html",
-      "pubDate": "2025-06-24T22:54:41Z"
-    },
-    {
-      "title": "Soybean Pressure Continuing on Wednesday Morning",
-      "link": "https://finance.yahoo.com/news/soybean-pressure-continuing-wednesday-morning-123544039.html",
-      "pubDate": "2025-06-25T12:35:44Z"
+      "title": "These Stocks Are Moving the Most Today: FedEx, QuantumScape, BlackBerry, Worthington, Coinbase, Nvidia, Micron, and More",
+      "link": "https://www.barrons.com/articles/stock-movers-2c7b88c7?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-25T12:50:00Z"
     },
     {
       "title": "Analyst Report: CarMax Inc",
@@ -235,14 +270,34 @@
       "pubDate": "2025-06-25T11:08:07Z"
     },
     {
-      "title": "The US food industry needs immigrant labour – but the system requires reform",
-      "link": "https://finance.yahoo.com/news/us-food-industry-needs-immigrant-125855702.html",
-      "pubDate": "2025-06-25T12:58:55Z"
+      "title": "2 Important Medicare Issues That Suze Orman Wants You To Understand",
+      "link": "https://finance.yahoo.com/news/2-important-medicare-issues-aware-120023951.html",
+      "pubDate": "2025-06-25T13:02:25Z"
+    },
+    {
+      "title": "10-Year Notes Break Out of Slumber",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062525/card/10-year-notes-break-out-of-slumber-658mgIwEpjECGw3BegCD?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-25T12:46:45Z"
     },
     {
       "title": "Corn Extending Losses on Wet Weather Pattern",
       "link": "https://finance.yahoo.com/news/corn-extending-losses-wet-weather-123544549.html",
       "pubDate": "2025-06-25T12:35:44Z"
+    },
+    {
+      "title": "Soybean Pressure Continuing on Wednesday Morning",
+      "link": "https://finance.yahoo.com/news/soybean-pressure-continuing-wednesday-morning-123544039.html",
+      "pubDate": "2025-06-25T12:35:44Z"
+    },
+    {
+      "title": "Daily Spotlight: Three Signals from Dividend Growth",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_43914_MarketOutlook_1750849537000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "pubDate": "2025-06-25T11:05:37Z"
+    },
+    {
+      "title": "Amazon vs. Walmart: Which Is a Better Stock Buy?",
+      "link": "https://finance.yahoo.com/news/amazon-vs-walmart-stock-better-202010440.html",
+      "pubDate": "2025-06-25T13:02:09Z"
     },
     {
       "title": "Nvidia stock looks to extend gains, notch record high in remarkable 2025 turnaround",
@@ -255,28 +310,63 @@
       "pubDate": "2025-06-25T12:23:47Z"
     },
     {
+      "title": "Tesla’s European Sales Stunk. Why the Stock Is Rising.",
+      "link": "https://www.barrons.com/articles/tesla-stock-price-european-sales-robotaxi-ai-660d540b?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-25T12:21:00Z"
+    },
+    {
+      "title": "QuantumScape Stock Is Soaring. Groundbreaking EV Battery Tech Is Almost Here.",
+      "link": "https://www.barrons.com/articles/quantumscape-stock-ev-battery-2673109a?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-25T12:12:00Z"
+    },
+    {
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_43913_TechnicalAnalysis_1750849457000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "pubDate": "2025-06-25T11:04:17Z"
+    },
+    {
+      "title": "CD Maturing in a Low-Rate Market? Here’s a Plan From a Financial Planner",
+      "link": "https://finance.yahoo.com/news/cd-maturing-low-rate-market-130136732.html",
+      "pubDate": "2025-06-25T13:01:36Z"
+    },
+    {
+      "title": "The U.S. Has a Debt Problem. How ‘Financial Repression’ Could Help Solve It.",
+      "link": "https://www.barrons.com/articles/us-debt-financial-repression-treasuries-a8685984?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-25T12:11:00Z"
+    },
+    {
       "title": "Is A. O. Smith Stock Underperforming the S&P 500?",
       "link": "https://finance.yahoo.com/news/o-smith-stock-underperforming-p-121049217.html",
       "pubDate": "2025-06-25T12:10:49Z"
     },
     {
-      "title": "Analyst Report: Dow Inc",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_4899_AnalystReport_1750849687000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "pubDate": "2025-06-25T11:08:07Z"
+      "title": "Stock Futures Rise as Investors Weigh Up Middle-East Truce and Fed Rate Cuts",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062525/card/stock-futures-edge-up-as-investors-weigh-up-middle-east-truce-and-rate-cuts-nFwM0h3DYe2RmJNp3fIq?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-25T12:09:24Z"
     },
     {
-      "title": "Brewdog IPO ‘not on radar for now, says CEO’",
-      "link": "https://finance.yahoo.com/news/brewdog-ipo-not-radar-now-124531912.html",
-      "pubDate": "2025-06-25T12:45:31Z"
+      "title": "Why Berkshire Hathaway Class A Stock Is a Better Bet Than Class B—If You Can Afford It",
+      "link": "https://www.barrons.com/articles/berkshire-hathaway-stock-price-warren-buffett-2219d405?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-25T12:07:00Z"
     },
     {
-      "title": "Stock Market Today: Indexes Strive For Gains Ahead Of More Powell Testimony; FedEx Dives On Earnings (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-powell/?src=A00220&yptr=yahoo",
-      "pubDate": "2025-06-25T12:09:19Z"
+      "title": "Market Digest: AAPL, CCL, KMX, MCK, DOW, DUOL",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_43911_MarketSummary_1750848787000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "pubDate": "2025-06-25T10:53:07Z"
+    },
+    {
+      "title": "Cathie Wood Is Doubling Down on This AI Stock. Should You?",
+      "link": "https://finance.yahoo.com/news/cathie-wood-doubling-down-ai-130000451.html",
+      "pubDate": "2025-06-25T13:00:00Z"
     },
     {
       "title": "Gold Futures Rise on Lingering Safe-Haven Demand",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-steady-amid-fed-rate-cut-prospects-d3a50927?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-25T12:04:00Z"
+    },
+    {
+      "title": "Buy Kinder Morgan Stock. Natural Gas and AI Are a Potent Combination.",
+      "link": "https://www.barrons.com/articles/kinder-morgan-stock-price-buy-ai-natural-gas-5ed416f9?siteid=yhoof2&yptr=yahoo",
       "pubDate": "2025-06-25T12:04:00Z"
     },
     {
@@ -290,14 +380,9 @@
       "pubDate": "2025-06-25T12:00:19Z"
     },
     {
-      "title": "Daily Spotlight: Three Signals from Dividend Growth",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_43914_MarketOutlook_1750849537000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "pubDate": "2025-06-25T11:05:37Z"
-    },
-    {
-      "title": "How To Earn $500 A Month From Micron Technology Stock Ahead Of Q3 Earnings",
-      "link": "https://finance.yahoo.com/news/earn-500-month-micron-technology-123737419.html",
-      "pubDate": "2025-06-25T12:37:37Z"
+      "title": "The US food and drinks industry needs immigrant labour – but the system requires reform",
+      "link": "https://finance.yahoo.com/news/us-food-drinks-industry-needs-125855011.html",
+      "pubDate": "2025-06-25T12:58:55Z"
     },
     {
       "title": "Best and Worst Stocks to Own Over July 4th Week",
@@ -320,14 +405,9 @@
       "pubDate": "2025-06-25T11:59:22Z"
     },
     {
-      "title": "Technical Assessment: Bullish in the Intermediate-Term",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_43913_TechnicalAnalysis_1750849457000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "pubDate": "2025-06-25T11:04:17Z"
-    },
-    {
-      "title": "Swiss chocolate maker Maestrani buys Belgium’s Delafaille",
-      "link": "https://finance.yahoo.com/news/swiss-chocolate-maker-maestrani-buys-122931803.html",
-      "pubDate": "2025-06-25T12:29:31Z"
+      "title": "The US food industry needs immigrant labour – but the system requires reform",
+      "link": "https://finance.yahoo.com/news/us-food-industry-needs-immigrant-125855702.html",
+      "pubDate": "2025-06-25T12:58:55Z"
     },
     {
       "title": "Gold price today, Wednesday, June 25, 2025: Gold lags last week as consumer confidence falls",
@@ -350,89 +430,14 @@
       "pubDate": "2025-06-25T11:49:00Z"
     },
     {
-      "title": "Market Digest: AAPL, CCL, KMX, MCK, DOW, DUOL",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_43911_MarketSummary_1750848787000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "pubDate": "2025-06-25T10:53:07Z"
-    },
-    {
-      "title": "UK merchants seek alternatives to costly payments: Yapily report",
-      "link": "https://finance.yahoo.com/news/uk-merchants-seek-alternatives-costly-122122873.html",
-      "pubDate": "2025-06-25T12:21:22Z"
+      "title": "Brewdog IPO ‘not on radar for now, says CEO’",
+      "link": "https://finance.yahoo.com/news/brewdog-ipo-not-radar-now-124531912.html",
+      "pubDate": "2025-06-25T12:45:31Z"
     },
     {
       "title": "Former Swiss National Bank Chair Named Adviser for Asset Manager Muzinich & Co",
       "link": "https://www.wsj.com/finance/investing/former-swiss-national-bank-chair-named-adviser-for-asset-manager-muzinich-co-3f4db526?siteid=yhoof2&yptr=yahoo",
       "pubDate": "2025-06-25T11:43:00Z"
-    },
-    {
-      "title": "Molson Coors Stock: Is TAP Underperforming the Consumer Defensive Sector?",
-      "link": "https://finance.yahoo.com/news/molson-coors-stock-tap-underperforming-113629347.html",
-      "pubDate": "2025-06-25T11:36:29Z"
-    },
-    {
-      "title": "Brussels set to disregard ECB warnings over stablecoin rules, FT reports",
-      "link": "https://finance.yahoo.com/news/brussels-set-disregard-ecb-warnings-113127284.html",
-      "pubDate": "2025-06-25T11:31:27Z"
-    },
-    {
-      "title": "6 Stocks to Buy to Give Your Portfolio the Perfect Mix of Growth, Value, and Defense",
-      "link": "https://finance.yahoo.com/news/6-stocks-buy-portfolio-perfect-113002889.html",
-      "pubDate": "2025-06-25T11:30:02Z"
-    },
-    {
-      "title": "Micron Faces Earnings Test After Share Price Doubled Since April",
-      "link": "https://finance.yahoo.com/news/micron-faces-earnings-test-share-094239357.html",
-      "pubDate": "2025-06-25T09:42:39Z"
-    },
-    {
-      "title": "BlackBerry Stock is Gapping Higher After Earnings, Here’s Why",
-      "link": "https://finance.yahoo.com/news/blackberry-stock-gapping-higher-earnings-112508063.html",
-      "pubDate": "2025-06-25T11:25:08Z"
-    },
-    {
-      "title": "Fear Gauge Falls With Wall Street Feeling Zen After Cease-Fire, Powell Testimony",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062525/card/fears-gauge-falls-with-wall-street-feeling-zen-after-cease-fire-powell-testimony-Q6rz5Qoh9FWguBzygVmh?siteid=yhoof2&yptr=yahoo",
-      "pubDate": "2025-06-25T11:19:33Z"
-    },
-    {
-      "title": "These Stocks Are Moving the Most Today: FedEx, QuantumScape, BlackBerry, Worthington, Coinbase, Nvidia, Micron, and More",
-      "link": "https://www.barrons.com/articles/stock-movers-2c7b88c7?siteid=yhoof2&yptr=yahoo",
-      "pubDate": "2025-06-25T11:14:00Z"
-    },
-    {
-      "title": "QuantumScape Stock Surges as Firm Touts Solid-State Battery Breakthrough",
-      "link": "https://finance.yahoo.com/news/quantumscape-stock-surges-firm-touts-121501928.html",
-      "pubDate": "2025-06-25T12:15:01Z"
-    },
-    {
-      "title": "General Mills forecasts weak annual profit as economic uncertainty weighs",
-      "link": "https://finance.yahoo.com/news/general-mills-forecasts-downbeat-annual-111045861.html",
-      "pubDate": "2025-06-25T11:10:45Z"
-    },
-    {
-      "title": "Stablecoins Fall Short as Cornerstone of Monetary System, Central Banks Say",
-      "link": "https://www.wsj.com/economy/central-banking/stablecoins-fall-short-as-cornerstone-of-monetary-system-central-banks-say-e0b33e70?siteid=yhoof2&yptr=yahoo",
-      "pubDate": "2025-06-25T11:01:00Z"
-    },
-    {
-      "title": "Taiwan Semiconductor Option Trade has a Profit Zone Between $220 and $250",
-      "link": "https://finance.yahoo.com/news/taiwan-semiconductor-option-trade-profit-110003416.html",
-      "pubDate": "2025-06-25T11:00:03Z"
-    },
-    {
-      "title": "Is United Health Stock a Buy, Hold or Sell for July 2025?",
-      "link": "https://finance.yahoo.com/news/united-health-stock-buy-hold-110003857.html",
-      "pubDate": "2025-06-25T11:00:03Z"
-    },
-    {
-      "title": "Bond Traders Boost Bets US 10-Year Yield Will Dive Toward 4%",
-      "link": "https://finance.yahoo.com/news/bond-traders-boost-bets-us-090626747.html",
-      "pubDate": "2025-06-25T09:06:26Z"
-    },
-    {
-      "title": "Cannes Festival Fuels Wall Street Confidence in META—Citi Lifts Price Target",
-      "link": "https://finance.yahoo.com/news/cannes-festival-fuels-wall-street-105121937.html",
-      "pubDate": "2025-06-25T10:51:21Z"
     },
     {
       "title": "Jobless claims stay low in latest week",
