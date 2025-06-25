@@ -1,29 +1,27 @@
 const sources = {
   'Technology & Science': [
-    'https://feeds.feedburner.com/TechCrunch',
-    'https://www.wired.com/feed/rss',
-    'https://feeds.feedburner.com/oreilly/radar',
-    'https://www.sciencedaily.com/rss/top.xml'
+    'https://rss.cnn.com/rss/cnn_tech.rss',
+    'https://www.nasa.gov/rss/dyn/breaking_news.rss'
   ],
   'World News': [
-    'http://feeds.bbci.co.uk/news/world/rss.xml',
-    'https://feeds.reuters.com/reuters/worldNews'
+    'https://rss.cnn.com/rss/cnn_world.rss',
+    'https://feeds.npr.org/1004/rss.xml'
   ],
   'Business': [
-    'https://feeds.reuters.com/reuters/businessNews',
-    'https://feeds.feedburner.com/entrepreneur/latest'
+    'https://rss.cnn.com/rss/money_latest.rss',
+    'https://feeds.marketwatch.com/marketwatch/topstories'
   ],
   'Politics': [
-    'https://feeds.reuters.com/reuters/politicsNews',
-    'https://feeds.feedburner.com/politico/fAVF'
+    'https://rss.cnn.com/rss/cnn_allpolitics.rss',
+    'https://feeds.npr.org/1014/rss.xml'
   ],
   'Weather': [
-    'https://feeds.weather.gov/us/us.xml',
-    'https://www.weather.com/rss/weather/today'
+    'https://www.weather.gov/xml/current_obs/index.xml',
+    'https://rss.weather.gov/ffc.xml'
   ],
   'Stocks': [
-    'https://feeds.finance.yahoo.com/rss/2.0/topfinstories',
-    'https://feeds.reuters.com/reuters/markets'
+    'https://finance.yahoo.com/news/rssindex',
+    'https://feeds.marketwatch.com/marketwatch/marketpulse'
   ]
 };
 
