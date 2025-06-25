@@ -8,6 +8,8 @@ function App() {
   const [loading, setLoading] = useState(true)
   const [searchQuery, setSearchQuery] = useState('')
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
+  const [lastUpdated, setLastUpdated] = useState(new Date())
+  const [isTransitioning, setIsTransitioning] = useState(false)
 
   useEffect(() => {
     const fetchArticles = async () => {
@@ -15,6 +17,7 @@ function App() {
         setLoading(true)
         const response = await axios.get('http://localhost:3001/api/articles')
         setArticles(response.data)
+        setLastUpdated(new Date())
         console.log('Articles fetched successfully:', response.data)
       } catch (error) {
         console.error('Error fetching articles:', error)
@@ -24,6 +27,10 @@ function App() {
     }
 
     fetchArticles()
+    
+    // Set up interval to refresh articles every 10 minutes
+    const interval = setInterval(fetchArticles, 10 * 60 * 1000)
+    return () => clearInterval(interval)
   }, [])
 
   const getCurrentDate = () => {
@@ -58,21 +65,50 @@ function App() {
     return filteredArticles
   }
 
+  // Skeleton loading component
+  const SkeletonCard = () => (
+    <div className="skeleton-card">
+      <div className="skeleton-line title"></div>
+      <div className="skeleton-line subtitle"></div>
+      <div className="skeleton-line content"></div>
+      <div className="skeleton-line content" style={{width: '70%'}}></div>
+    </div>
+  )
+
+  // Render skeleton cards while loading
+  const renderSkeletonCards = () => (
+    <div className="articles-container">
+      {[...Array(6)].map((_, index) => (
+        <SkeletonCard key={index} />
+      ))}
+    </div>
+  )
+
   const handleCategoryClick = (category) => {
-    setActiveFilter(category)
-    setMobileMenuOpen(false)
+    setIsTransitioning(true)
     
-    // Smooth scroll to category section
-    if (category !== 'All') {
+    // Start fade out transition
+    setTimeout(() => {
+      setActiveFilter(category)
+      setMobileMenuOpen(false)
+      
+      // Smooth scroll to category section
+      if (category !== 'All') {
+        setTimeout(() => {
+          const element = document.querySelector(`[data-category-section="${category}"]`)
+          if (element) {
+            element.scrollIntoView({ behavior: 'smooth', block: 'start' })
+          }
+        }, 100)
+      } else {
+        window.scrollTo({ top: 0, behavior: 'smooth' })
+      }
+      
+      // End transition after a delay
       setTimeout(() => {
-        const element = document.querySelector(`[data-category-section="${category}"]`)
-        if (element) {
-          element.scrollIntoView({ behavior: 'smooth', block: 'start' })
-        }
-      }, 100)
-    } else {
-      window.scrollTo({ top: 0, behavior: 'smooth' })
-    }
+        setIsTransitioning(false)
+      }, 400)
+    }, 150)
   }
 
   const handleSearchChange = (e) => {
@@ -217,9 +253,20 @@ function App() {
           <div className="loading">
             <div className="loading-spinner"></div>
             <p>Loading latest news...</p>
+            {renderSkeletonCards()}
           </div>
         ) : (
-          <div className="articles-grid">
+          <>
+            {/* Last Updated */}
+            <div className="last-updated">
+              Last updated: {lastUpdated.toLocaleTimeString('en-US', { 
+                hour: '2-digit', 
+                minute: '2-digit',
+                hour12: true
+              })}
+            </div>
+            
+            <div className={`articles-grid ${isTransitioning ? 'transitioning' : ''}`}>
             {Object.keys(getFilteredArticles()).map((category) => (
               <section key={category} className="category-section" data-category-section={category}>
                 {activeFilter === 'All' && (
@@ -227,7 +274,12 @@ function App() {
                 )}
                 <div className="articles-container">
                   {getFilteredArticles()[category]?.slice(0, 12).map((article, index) => (
-                    <article key={index} className="article-card" data-category={category}>
+                    <article 
+                      key={index} 
+                      className={`article-card animate-in ${isTransitioning ? 'transitioning' : ''}`}
+                      data-category={category}
+                      style={{'--delay': `${index * 0.1}s`}}
+                    >
                       <div className="article-header">
                         <h3 className="article-title">
                           <a 
@@ -255,7 +307,8 @@ function App() {
                 </div>
               </section>
             ))}
-          </div>
+            </div>
+          </>
         )}
       </main>
 

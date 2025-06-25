@@ -135,12 +135,13 @@ body {
   border-radius: 25px;
   font-weight: 500;
   cursor: pointer;
-  transition: all 0.3s ease;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   white-space: nowrap;
   font-size: 0.9rem;
   font-family: 'Inter', 'Roboto', sans-serif;
   position: relative;
   overflow: hidden;
+  transform: translate3d(0, 0, 0);
 }
 
 .nav-button::before {
@@ -161,7 +162,7 @@ body {
 .nav-button:hover {
   background: #555555;
   color: #ffffff;
-  transform: translateY(-2px);
+  transform: translate3d(0, -2px, 0);
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
 }
 
@@ -169,12 +170,12 @@ body {
   background: linear-gradient(135deg, #4285f4, #1565c0);
   color: #ffffff;
   box-shadow: 0 4px 20px rgba(66, 133, 244, 0.4);
-  transform: translateY(-1px);
+  transform: translate3d(0, -1px, 0);
 }
 
 .nav-button.active:hover {
   background: linear-gradient(135deg, #5294f5, #2575d0);
-  transform: translateY(-2px);
+  transform: translate3d(0, -2px, 0);
   box-shadow: 0 6px 25px rgba(66, 133, 244, 0.5);
 }
 
@@ -296,9 +297,15 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  padding: 4rem 2rem;
+  justify-content: flex-start;
+  padding: 2rem;
   color: #e0e0e0;
+}
+
+.loading .articles-container {
+  width: 100%;
+  max-width: 1400px;
+  margin-top: 2rem;
 }
 
 .loading-spinner {
@@ -314,6 +321,166 @@ body {
 @keyframes spin {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, 20px, 0);
+  }
+  100% {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    opacity: 0;
+    transform: translate3d(0, -20px, 0);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.7;
+    transform: scale(1.02);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200px 0;
+  }
+  100% {
+    background-position: calc(200px + 100%) 0;
+  }
+}
+
+@keyframes slideIn {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, 30px, 0);
+  }
+  100% {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes fadeInCard {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, 20px, 0);
+  }
+  100% {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* Loading Skeleton */
+.skeleton-card {
+  background: linear-gradient(90deg, #2d2d2d 25%, #3d3d3d 50%, #2d2d2d 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  border-radius: 8px;
+  height: 200px;
+  margin-bottom: 20px;
+  border-left: 4px solid #404040;
+  padding: 20px;
+}
+
+.skeleton-line {
+  background: linear-gradient(90deg, #3d3d3d 25%, #4d4d4d 50%, #3d3d3d 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  border-radius: 4px;
+  height: 16px;
+  margin: 10px 0;
+}
+
+.skeleton-line.title {
+  height: 20px;
+  width: 80%;
+}
+
+.skeleton-line.subtitle {
+  height: 14px;
+  width: 60%;
+}
+
+.skeleton-line.content {
+  height: 12px;
+  width: 90%;
+}
+
+/* Last Updated Pulse */
+.last-updated {
+  display: flex;
+  align-items: center;
+  color: #b0b0b0;
+  font-size: 14px;
+  margin-bottom: 20px;
+  animation: pulse 2s infinite;
+}
+
+.last-updated::before {
+  content: '●';
+  color: #4caf50;
+  margin-right: 8px;
+  animation: pulse 1s infinite;
+}
+
+/* Smooth Category Transition */
+.articles-container {
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.category-transition-enter {
+  opacity: 0;
+  transform: translate3d(0, 20px, 0);
+}
+
+.category-transition-enter-active {
+  opacity: 1;
+  transform: translate3d(0, 0, 0);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.category-transition-exit {
+  opacity: 1;
+  transform: translate3d(0, 0, 0);
+}
+
+.category-transition-exit-active {
+  opacity: 0;
+  transform: translate3d(0, -20px, 0);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Card Stagger Animation */
+.article-card.animate-in {
+  animation-delay: var(--delay);
+}
+
+/* Transition States */
+.articles-grid.transitioning {
+  opacity: 0.7;
+  transform: translate3d(0, 10px, 0);
+}
+
+.article-card.transitioning {
+  opacity: 0.5;
+  transform: translate3d(0, 10px, 0);
 }
 
 /* Articles Grid */
@@ -353,11 +520,14 @@ body {
   border-radius: 8px;
   padding: 20px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
-  transition: all 0.2s ease;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   border: 1px solid #404040;
   height: fit-content;
   position: relative;
   border-left: 4px solid #4285f4; /* Default blue */
+  opacity: 0;
+  transform: translate3d(0, 20px, 0);
+  animation: fadeInCard 0.6s ease-out forwards;
 }
 
 /* Category-specific left border colors */
@@ -387,8 +557,8 @@ body {
 }
 
 .article-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+  transform: translate3d(0, -5px, 0) scale(1.02);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
   border-color: #4285f4;
 }
 
