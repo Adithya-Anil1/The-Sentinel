@@ -113,7 +113,7 @@ Since you are leveraging AI, this plan is structured with clear, actionable step
 
    - Modify `server.js`.
 
-   - [👉 AI Prompt]: *"In server.js, import node-cron and the fetchAllArticles function from fetcher.js. Schedule fetchAllArticles to run once every hour using cron.schedule. Also, call fetchAllArticles() one time right when the server starts."*
+   - [👉 AI Prompt]: *"In server.js, import node-cron and the fetchAllArticles function from fetcher.js. Schedule fetchAllArticles to run once every 10 minutes using cron.schedule. Also, call fetchAllArticles() one time right when the server starts."*
 
 5. **Create the API Endpoint:**
 
