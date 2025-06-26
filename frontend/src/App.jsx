@@ -148,16 +148,40 @@ function App() {
     return Math.min(5, readTime + Math.floor(Math.random() * 3) + 1) // Random 1-5 min
   }
 
-  const getSourceName = (category) => {
+  const getSourceInfo = (category) => {
     const sourceMap = {
-      'Technology & Science': 'TechNews',
-      'World News': 'WorldWire',
-      'Business': 'BizDaily',
-      'Politics': 'PoliticoLive',
-      'Weather': 'WeatherNow',
-      'Stocks': 'MarketWatch'
+      'Technology & Science': { 
+        name: 'TechNews', 
+        icon: '💻',
+        color: '#4285f4'
+      },
+      'World News': { 
+        name: 'WorldWire', 
+        icon: '🌍',
+        color: '#9c27b0'
+      },
+      'Business': { 
+        name: 'BizDaily', 
+        icon: '💼',
+        color: '#34a853'
+      },
+      'Politics': { 
+        name: 'PoliticoLive', 
+        icon: '🏛️',
+        color: '#ea4335'
+      },
+      'Weather': { 
+        name: 'WeatherNow', 
+        icon: '⛅',
+        color: '#00bcd4'
+      },
+      'Stocks': { 
+        name: 'MarketWatch', 
+        icon: '📈',
+        color: '#ff9800'
+      }
     }
-    return sourceMap[category] || 'NewsSource'
+    return sourceMap[category] || { name: 'NewsSource', icon: '📰', color: '#4285f4' }
   }
 
   const generatePreview = (title) => {
@@ -169,6 +193,43 @@ function App() {
     ]
     return templates[Math.floor(Math.random() * templates.length)]
   }
+
+  const formatLastUpdated = () => {
+    const now = new Date()
+    const diffInMs = now - lastUpdated
+    const diffInMinutes = Math.floor(diffInMs / (1000 * 60))
+    
+    if (diffInMinutes < 1) {
+      return 'Just now'
+    } else if (diffInMinutes < 60) {
+      return `${diffInMinutes} minute${diffInMinutes > 1 ? 's' : ''} ago`
+    } else {
+      const diffInHours = Math.floor(diffInMinutes / 60)
+      return `${diffInHours} hour${diffInHours > 1 ? 's' : ''} ago`
+    }
+  }
+
+  // Empty state component
+  const EmptyState = ({ category }) => (
+    <div className="empty-state">
+      <div className="empty-state-icon">📰</div>
+      <h3 className="empty-state-title">No articles found</h3>
+      <p className="empty-state-message">
+        {searchQuery.trim() 
+          ? `No articles match "${searchQuery}" in ${category}`
+          : `No articles available in ${category} at the moment`
+        }
+      </p>
+      {searchQuery.trim() && (
+        <button 
+          className="empty-state-button"
+          onClick={() => setSearchQuery('')}
+        >
+          Clear search
+        </button>
+      )}
+    </div>
+  )
 
   return (
     <div className="app">
@@ -259,11 +320,8 @@ function App() {
           <>
             {/* Last Updated */}
             <div className="last-updated">
-              Last updated: {lastUpdated.toLocaleTimeString('en-US', { 
-                hour: '2-digit', 
-                minute: '2-digit',
-                hour12: true
-              })}
+              <span className="update-indicator"></span>
+              Last updated: {formatLastUpdated()}
             </div>
             
             <div className={`articles-grid ${isTransitioning ? 'transitioning' : ''}`}>
@@ -273,38 +331,54 @@ function App() {
                   <h2 className="category-title">{category}</h2>
                 )}
                 <div className="articles-container">
-                  {getFilteredArticles()[category]?.slice(0, 12).map((article, index) => (
-                    <article 
-                      key={index} 
-                      className={`article-card animate-in ${isTransitioning ? 'transitioning' : ''}`}
-                      data-category={category}
-                      style={{'--delay': `${index * 0.1}s`}}
-                    >
-                      <div className="article-header">
-                        <h3 className="article-title">
-                          <a 
-                            href={article.link} 
-                            target="_blank" 
-                            rel="noopener noreferrer"
-                            className="article-link"
-                          >
-                            {article.title}
-                          </a>
-                        </h3>
-                        <span className="source-badge">{getSourceName(category)}</span>
-                      </div>
-                      
-                      <p className="article-preview">
-                        {generatePreview(article.title)}
-                      </p>
-                      
-                      <div className="article-meta">
-                        <span className="article-timestamp">{formatDate(article.pubDate)}</span>
-                        <span className="read-time">{getEstimatedReadTime(article.title)} min read</span>
-                      </div>
-                    </article>
-                  ))}
+                  {getFilteredArticles()[category]?.length === 0 ? (
+                    <EmptyState category={category} />
+                  ) : (
+                    getFilteredArticles()[category]?.slice(0, 12).map((article, index) => {
+                      const sourceInfo = getSourceInfo(category)
+                      return (
+                        <article 
+                          key={index} 
+                          className={`article-card animate-in ${isTransitioning ? 'transitioning' : ''}`}
+                          data-category={category}
+                          style={{'--delay': `${index * 0.1}s`}}
+                        >
+                          <div className="article-header">
+                            <h3 className="article-title">
+                              <a 
+                                href={article.link} 
+                                target="_blank" 
+                                rel="noopener noreferrer"
+                                className="article-link"
+                              >
+                                {article.title}
+                              </a>
+                            </h3>
+                            <span 
+                              className="source-badge" 
+                              style={{'--badge-color': sourceInfo.color}}
+                            >
+                              <span className="source-icon">{sourceInfo.icon}</span>
+                              {sourceInfo.name}
+                            </span>
+                          </div>
+                          
+                          <p className="article-preview">
+                            {generatePreview(article.title)}
+                          </p>
+                          
+                          <div className="article-meta">
+                            <span className="article-timestamp">{formatDate(article.pubDate)}</span>
+                            <span className="read-time">{getEstimatedReadTime(article.title)} min read</span>
+                          </div>
+                        </article>
+                      )
+                    })
+                  )}
                 </div>
+                {getFilteredArticles()[category]?.length === 0 && (
+                  <EmptyState category={category} />
+                )}
               </section>
             ))}
             </div>
@@ -314,7 +388,44 @@ function App() {
 
       {/* Footer */}
       <footer className="footer">
-        <p>&copy; 2025 Project Sentinel. Real-time news aggregation.</p>
+        <div className="footer-content">
+          <div className="footer-section">
+            <h3 className="footer-title">Project Sentinel</h3>
+            <p className="footer-description">
+              Intelligent news aggregation platform bringing you curated content from trusted sources.
+            </p>
+          </div>
+          
+          <div className="footer-section">
+            <h4 className="footer-heading">Categories</h4>
+            <div className="footer-links">
+              {categories.slice(1).map(category => (
+                <button 
+                  key={category}
+                  className="footer-link"
+                  onClick={() => handleCategoryClick(category)}
+                >
+                  {category}
+                </button>
+              ))}
+            </div>
+          </div>
+          
+          <div className="footer-section">
+            <h4 className="footer-heading">Features</h4>
+            <ul className="footer-list">
+              <li>Real-time updates</li>
+              <li>Smart categorization</li>
+              <li>Mobile responsive</li>
+              <li>Dark mode ready</li>
+            </ul>
+          </div>
+        </div>
+        
+        <div className="footer-bottom">
+          <p>&copy; 2025 Project Sentinel. Real-time news aggregation.</p>
+          <p className="footer-tech">Built with React, Vite & Express</p>
+        </div>
       </footer>
     </div>
   )
