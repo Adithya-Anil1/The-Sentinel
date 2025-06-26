@@ -1,0 +1,75 @@
+
+.trending-hero-section {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  gap: 16px;
+  min-height: 400px;
+  margin-bottom: 2rem;
+}
+
+.featured-article-card, .small-article-card {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  border-radius: 4px;
+  overflow: hidden;
+  color: white;
+}
+
+.card-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 1.5rem;
+}
+
+.card-content {
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.7);
+}
+
+.category-tag {
+  background-color: #ffc107;
+  color: black;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+
+.article-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 0.5rem 0;
+}
+
+.article-meta {
+  font-size: 0.9rem;
+}
+
+.other-articles {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.small-article-card {
+  flex: 1;
+}
+
+.article-title-small {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 0.5rem 0;
+}
+
+.article-meta-small {
+  font-size: 0.8rem;
+}

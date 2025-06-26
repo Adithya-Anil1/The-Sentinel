@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import axios from 'axios'
 import './App.css'
+import TrendingArticles from './components/TrendingArticles'
 
 function App() {
   const [articles, setArticles] = useState({})
@@ -10,6 +11,37 @@ function App() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   const [lastUpdated, setLastUpdated] = useState(new Date())
   const [isTransitioning, setIsTransitioning] = useState(false)
+
+  const trendingArticles = [
+    {
+      title: 'The Future of AI: Trends to Watch in 2025',
+      author: 'Jane Doe',
+      date: 'June 26, 2025',
+      category: 'Technology',
+      image: 'https://images.unsplash.com/photo-1593349480503-64d3518a65a4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+    },
+    {
+      title: 'Global Markets Rally as New Trade Agreements Signed',
+      author: 'John Smith',
+      date: 'June 25, 2025',
+      category: 'Business',
+      image: 'https://images.unsplash.com/photo-1554260570-e9689a3418b8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+    },
+    {
+      title: 'Exploring the Amazon: A Journey to the Heart of the Jungle',
+      author: 'Emily White',
+      date: 'June 24, 2025',
+      category: 'Travel',
+      image: 'https://images.unsplash.com/photo-1516426122078-c23e76319235?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+    },
+    {
+      title: 'The Rise of Sustainable Architecture',
+      author: 'David Green',
+      date: 'June 23, 2025',
+      category: 'Design',
+      image: 'https://images.unsplash.com/photo-1487958449943-2429e8be8625?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+    }
+  ];
 
   useEffect(() => {
     const fetchArticles = async () => {
@@ -241,6 +273,9 @@ function App() {
           <p className="hero-tagline">Curated news, intelligently organized</p>
         </div>
       </header>
+
+      {/* Trending Articles Hero Section */}
+      <TrendingArticles articles={trendingArticles} />
 
       {/* Enhanced Sticky Navigation */}
       <nav className="nav-bar">
