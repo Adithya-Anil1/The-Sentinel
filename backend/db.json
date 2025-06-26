@@ -1,6 +1,46 @@
 {
   "Technology & Science": [
     {
+      "title": "NASA’s Chandra Shares a New View of Our Galactic Neighbor",
+      "link": "https://www.nasa.gov/image-article/nasas-chandra-shares-a-new-view-of-our-galactic-neighbor/",
+      "pubDate": "Wed, 25 Jun 2025 21:02:53 +0000"
+    },
+    {
+      "title": "NASA Astronauts to Answer Questions from Alabama Students",
+      "link": "https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-alabama-students/",
+      "pubDate": "Wed, 25 Jun 2025 19:21:55 +0000"
+    },
+    {
+      "title": "Waning Crescent Moon",
+      "link": "https://www.nasa.gov/image-article/waning-crescent-moon/",
+      "pubDate": "Wed, 25 Jun 2025 18:31:57 +0000"
+    },
+    {
+      "title": "NASA-Assisted Scientists Get Bird’s-Eye View of Population Status",
+      "link": "https://science.nasa.gov/earth/nasa-assisted-scientists-get-birds-eye-view-of-population-status/",
+      "pubDate": "Wed, 25 Jun 2025 18:18:56 +0000"
+    },
+    {
+      "title": "What Are Asteroids? (Ages 14-18)",
+      "link": "https://www.nasa.gov/learning-resources/what-are-asteroids-ages-14-18/",
+      "pubDate": "Wed, 25 Jun 2025 18:12:24 +0000"
+    },
+    {
+      "title": "John Casani, Former Manager of Multiple NASA Missions, Dies",
+      "link": "https://www.nasa.gov/centers-and-facilities/jpl/john-casani-former-manager-of-multiple-nasa-missions-dies/",
+      "pubDate": "Wed, 25 Jun 2025 17:30:44 +0000"
+    },
+    {
+      "title": "Meet Rob Navias: Public Affairs Officer and Mission Commentator  ",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/meet-rob-navias-public-affairs-officer-and-mission-commentator/",
+      "pubDate": "Wed, 25 Jun 2025 16:39:20 +0000"
+    },
+    {
+      "title": "NASA’s Perseverance Rover Scours Mars for Science",
+      "link": "https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-scours-mars-for-science/",
+      "pubDate": "Wed, 25 Jun 2025 16:12:16 +0000"
+    },
+    {
       "title": "NASA to Welcome Fourth Private Astronaut Mission to Space Station",
       "link": "https://www.nasa.gov/news-release/nasa-to-welcome-fourth-private-astronaut-mission-to-space-station/",
       "pubDate": "Wed, 25 Jun 2025 07:11:12 +0000"
@@ -9,63 +49,43 @@
       "title": "NASA Sets Coverage for Axiom Mission 4 Launch, Arrival at Station",
       "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-4-launch-arrival-at-station-2/",
       "pubDate": "Tue, 24 Jun 2025 17:52:01 +0000"
-    },
-    {
-      "title": "NASA Astronaut Zena Cardman",
-      "link": "https://www.nasa.gov/image-article/nasa-astronaut-zena-cardman/",
-      "pubDate": "Tue, 24 Jun 2025 17:08:08 +0000"
-    },
-    {
-      "title": "NICER Status Updates",
-      "link": "https://www.nasa.gov/missions/station/nicer-status-updates/",
-      "pubDate": "Tue, 24 Jun 2025 16:00:08 +0000"
-    },
-    {
-      "title": "Live or Fly a Plane in California? Help NASA Measure Ozone Pollution!",
-      "link": "https://science.nasa.gov/get-involved/citizen-science/live-or-fly-a-plane-in-california-help-nasa-measure-ozone-pollution/",
-      "pubDate": "Tue, 24 Jun 2025 14:13:55 +0000"
-    },
-    {
-      "title": "NASA’s SLS Solid Rocket Boosters: What is DM-1?",
-      "link": "https://www.nasa.gov/image-article/nasas-sls-solid-rocket-boosters-what-is-dm-1/",
-      "pubDate": "Mon, 23 Jun 2025 19:09:33 +0000"
-    },
-    {
-      "title": "Mission Accomplished! Artemis ROADS III National Challenge Competitors Celebrate their Achievements",
-      "link": "https://science.nasa.gov/missions/artemis/mission-accomplished-artemis-roads-iii-national-challenge-competitors-celebrate-their-achievements/",
-      "pubDate": "Mon, 23 Jun 2025 17:27:54 +0000"
-    },
-    {
-      "title": "NASA’s Curiosity Mars Rover Starts Unpacking Boxwork Formations",
-      "link": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-starts-unpacking-boxwork-formations/",
-      "pubDate": "Mon, 23 Jun 2025 17:09:41 +0000"
-    },
-    {
-      "title": "A Martian Volcano in the Mist",
-      "link": "https://www.nasa.gov/image-article/a-martian-volcano-in-the-mist/",
-      "pubDate": "Mon, 23 Jun 2025 16:54:14 +0000"
-    },
-    {
-      "title": "Clay Minerals From Mars’ Most Ancient Past?",
-      "link": "https://science.nasa.gov/blog/clay-minerals-from-mars-most-ancient-past/",
-      "pubDate": "Mon, 23 Jun 2025 16:33:05 +0000"
     }
   ],
   "World News": [
+    {
+      "title": "More than a thousand schools in Peru have faced threats from criminal gangs",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5442513/more-than-a-thousand-schools-in-peru-have-faced-threats-from-criminal-gangs",
+      "pubDate": "Wed, 25 Jun 2025 19:31:25 -0400"
+    },
+    {
+      "title": "Germany Rearms",
+      "link": "https://www.npr.org/2025/06/25/1254697873/germany-rearms",
+      "pubDate": "Wed, 25 Jun 2025 17:02:45 -0400"
+    },
+    {
+      "title": "At NATO, President Trump defends his Iran strikes and warms to the alliance",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5445171/at-nato-president-trump-defends-his-iran-strikes-and-warms-to-the-alliance",
+      "pubDate": "Wed, 25 Jun 2025 16:28:21 -0400"
+    },
+    {
+      "title": "Greetings from Odesa, Ukraine, where a Black Sea beach offers respite from war",
+      "link": "https://www.npr.org/2025/06/25/g-s1-73713/ukraine-odesa-beach-black-sea",
+      "pubDate": "Wed, 25 Jun 2025 10:35:29 -0400"
+    },
+    {
+      "title": "Israel was once deterred from striking Iran. Now Netanyahu takes a victory lap",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5444864/israel-iran-war-netanyahu",
+      "pubDate": "Wed, 25 Jun 2025 10:21:37 -0400"
+    },
     {
       "title": "Iran's nuclear program set back 'a few months.' And, Trump to meet with NATO allies",
       "link": "https://www.npr.org/2025/06/25/g-s1-74499/up-first-newsletter-iran-nuclear-program-nato-summit-emil-bove",
       "pubDate": "Wed, 25 Jun 2025 07:13:28 -0400"
     },
     {
-      "title": "Trump is slated to hold a press conference at the NATO summit",
+      "title": "Trump doubles down on damage U.S. strikes caused to Iran's nuclear sites",
       "link": "https://www.npr.org/2025/06/25/nx-s1-5435692/trump-nato-israel-iran",
       "pubDate": "Wed, 25 Jun 2025 07:00:00 -0400"
-    },
-    {
-      "title": "Six things to know about Iran's supreme leader",
-      "link": "https://www.npr.org/2025/06/25/nx-s1-5442496/what-to-know-iran-ayatollah-khamenei",
-      "pubDate": "Wed, 25 Jun 2025 05:00:00 -0400"
     },
     {
       "title": "Why a war in the Middle East hasn't sparked an oil crisis",
@@ -73,96 +93,101 @@
       "pubDate": "Wed, 25 Jun 2025 05:00:00 -0400"
     },
     {
+      "title": "Six things to know about Iran's supreme leader",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5442496/what-to-know-iran-ayatollah-khamenei",
+      "pubDate": "Wed, 25 Jun 2025 05:00:00 -0400"
+    },
+    {
       "title": "Israel's war with Iran is over, but its other war in Gaza grinds on",
       "link": "https://www.npr.org/2025/06/25/nx-s1-5444000/israels-war-with-iran-is-over-but-its-other-war-in-gaza-grinds-on",
       "pubDate": "Wed, 25 Jun 2025 04:17:44 -0400"
-    },
-    {
-      "title": "Activists in Venice say there's 'No Space For Bezos'",
-      "link": "https://www.npr.org/2025/06/25/nx-s1-5443643/activists-in-venice-say-theres-no-space-for-bezos",
-      "pubDate": "Wed, 25 Jun 2025 04:15:57 -0400"
-    },
-    {
-      "title": "Trump meets with NATO members at summit in the Netherlands",
-      "link": "https://www.npr.org/2025/06/25/nx-s1-5443661/trump-meets-with-nato-members-at-summit-in-the-netherlands",
-      "pubDate": "Wed, 25 Jun 2025 04:13:57 -0400"
-    },
-    {
-      "title": "A former Iranian diplomat on the state of Iran's nuclear program",
-      "link": "https://www.npr.org/2025/06/25/nx-s1-5442658/a-former-iranian-diplomat-on-the-state-of-irans-nuclear-program",
-      "pubDate": "Wed, 25 Jun 2025 04:12:53 -0400"
-    },
-    {
-      "title": "Brazilian tourist found dead after falling from an Indonesian volcano",
-      "link": "https://www.npr.org/2025/06/25/nx-s1-5444787/brazilian-tourist-indonesia-volcano",
-      "pubDate": "Wed, 25 Jun 2025 01:31:40 -0400"
-    },
-    {
-      "title": "Dealing with Iran's nuclear program requires tricky diplomacy. But there's low trust",
-      "link": "https://www.npr.org/2025/06/24/nx-s1-5442502/dealing-with-irans-nuclear-program-requires-tricky-diplomacy-but-theres-low-trust",
-      "pubDate": "Tue, 24 Jun 2025 18:18:59 -0400"
     }
   ],
   "Business": [
     {
-      "title": "Cheerios parent General Mills will sacrifice some profit to drive sales, and the stock is dropping",
-      "link": "https://www.marketwatch.com/story/cheerios-parent-general-mills-will-sacrifice-some-profit-to-drive-sales-and-the-stock-is-dropping-74919f1a?mod=mw_rss_topstories",
-      "pubDate": "Wed, 25 Jun 2025 13:13:00 GMT"
+      "title": "Micron delivers record quarterly revenue, supporting investors’ ‘super-bullish’ outlook",
+      "link": "https://www.marketwatch.com/story/micron-delivers-record-quarterly-revenue-supporting-investors-super-bullish-outlook-cb351984?mod=mw_rss_topstories",
+      "pubDate": "Thu, 26 Jun 2025 01:08:00 GMT"
     },
     {
-      "title": "The next great WFH trend will be ‘War from Home,’ says this strategist",
-      "link": "https://www.marketwatch.com/story/the-next-great-wfh-trend-will-be-war-from-home-says-this-strategist-18897c02?mod=mw_rss_topstories",
-      "pubDate": "Wed, 25 Jun 2025 12:06:00 GMT"
+      "title": "Nvidia’s $1.4 trillion comeback is now complete. The stock just closed at a record.",
+      "link": "https://www.marketwatch.com/story/nvidias-1-4-trillion-comeback-is-just-about-complete-the-stock-is-headed-for-a-record-4772969e?mod=mw_rss_topstories",
+      "pubDate": "Thu, 26 Jun 2025 01:07:00 GMT"
     },
     {
-      "title": "Here’s one stock-market forecast you can bank on: No one will ever have a crystal ball",
-      "link": "https://www.marketwatch.com/story/heres-one-stock-market-forecast-you-can-bank-on-no-one-will-ever-have-a-crystal-ball-d7210258?mod=mw_rss_topstories",
-      "pubDate": "Wed, 25 Jun 2025 12:05:00 GMT"
+      "title": "Office-furniture maker Steelcase cut jobs in the first quarter. And more cuts could be coming.",
+      "link": "https://www.marketwatch.com/story/office-furniture-maker-steelcase-cut-jobs-in-the-first-quarter-and-more-cuts-could-be-coming-89698f89?mod=mw_rss_topstories",
+      "pubDate": "Thu, 26 Jun 2025 00:37:00 GMT"
     },
     {
-      "title": "Why more big companies like Sherwin-Williams are talking about immigration on their earnings calls",
-      "link": "https://www.marketwatch.com/story/why-more-big-companies-like-sherwin-williams-are-talking-about-immigration-on-their-earnings-calls-e71c9bf7?mod=mw_rss_topstories",
-      "pubDate": "Wed, 25 Jun 2025 12:00:00 GMT"
-    },
-    {
-      "title": "FedEx’s profit forecast is sinking the stock, as tariffs weigh on shipments",
-      "link": "https://www.marketwatch.com/story/fedex-hopes-to-save-1-billion-this-fiscal-year-but-its-forecast-is-sinking-shares-d7322bf1?mod=mw_rss_topstories",
-      "pubDate": "Wed, 25 Jun 2025 11:22:00 GMT"
-    },
-    {
-      "title": "Here’s how AI will help investors, according to Robinhood’s CEO",
-      "link": "https://www.marketwatch.com/story/heres-how-ai-will-help-investors-according-to-robinhoods-ceo-3d3bb373?mod=mw_rss_topstories",
-      "pubDate": "Wed, 25 Jun 2025 11:00:00 GMT"
-    },
-    {
-      "title": "Coinbase’s stock sees a ‘golden cross.’ Why it may not be a bullish signal to buy.",
-      "link": "https://www.marketwatch.com/story/coinbases-stock-sees-a-golden-cross-why-that-might-not-be-bullish-625b95d4?mod=mw_rss_topstories",
-      "pubDate": "Wed, 25 Jun 2025 10:51:00 GMT"
-    },
-    {
-      "title": "My friend asked me to pay $1,600 for her son’s prom-night limo. Has the world gone mad?",
+      "title": "My friend asked me to chip in $1,600 for her son’s prom-night limo. Has the world gone mad?",
       "link": "https://www.marketwatch.com/story/my-friend-asked-me-to-pay-1-600-for-her-sons-prom-night-limo-has-the-world-gone-mad-92e4c1c8?mod=mw_rss_topstories",
-      "pubDate": "Wed, 25 Jun 2025 09:45:00 GMT"
-    },
-    {
-      "title": "After key conference, here’s how the race to a $150 billion weight-loss drug market is shaping up",
-      "link": "https://www.marketwatch.com/story/after-key-conference-heres-how-the-race-to-a-150-billion-weight-loss-drug-market-is-shaping-up-fcf7d9fd?mod=mw_rss_topstories",
-      "pubDate": "Wed, 25 Jun 2025 09:43:00 GMT"
+      "pubDate": "Wed, 25 Jun 2025 23:17:00 GMT"
     },
     {
       "title": "My job is offering me a payout. Should I take a $61,000 lump sum or $355 a month for life?",
       "link": "https://www.marketwatch.com/story/im-49-and-have-no-debt-except-for-a-mortgage-should-i-take-a-61-000-lump-sum-or-355-a-month-for-life-7752f1c6?mod=mw_rss_topstories",
-      "pubDate": "Wed, 25 Jun 2025 09:10:00 GMT"
+      "pubDate": "Wed, 25 Jun 2025 23:12:00 GMT"
+    },
+    {
+      "title": "Excitement over Tesla’s robotaxi could still overshadow downbeat delivery numbers",
+      "link": "https://www.marketwatch.com/story/excitement-over-teslas-robotaxi-could-still-overshadow-downbeat-delivery-numbers-4e899fc1?mod=mw_rss_topstories",
+      "pubDate": "Wed, 25 Jun 2025 23:12:00 GMT"
+    },
+    {
+      "title": "Baseball superstar Fernando Tatis Jr. is a cautionary tale for young talent who sign away rights to millions",
+      "link": "https://www.marketwatch.com/story/baseball-superstar-fernando-tatis-jr-is-a-cautionary-tale-for-young-talent-who-sign-away-rights-to-millions-0e162b6b?mod=mw_rss_topstories",
+      "pubDate": "Wed, 25 Jun 2025 22:16:00 GMT"
+    },
+    {
+      "title": "Trump’s support for nuclear is enriching uranium — and powering up these energy stocks and ETFs",
+      "link": "https://www.marketwatch.com/story/want-in-on-trumps-newest-deregulation-play-these-energy-stocks-and-etfs-could-deliver-big-gains-from-uraniums-surge-32949c64?mod=mw_rss_topstories",
+      "pubDate": "Wed, 25 Jun 2025 21:22:00 GMT"
+    },
+    {
+      "title": "How to read stock-market forecasts like a pro — without getting steered in the wrong direction",
+      "link": "https://www.marketwatch.com/story/heres-one-stock-market-forecast-you-can-bank-on-no-one-will-ever-have-a-crystal-ball-d7210258?mod=mw_rss_topstories",
+      "pubDate": "Wed, 25 Jun 2025 21:19:00 GMT"
+    },
+    {
+      "title": "Circle’s stock plummets 25% over two days as investors flock to this other stablecoin play",
+      "link": "https://www.marketwatch.com/story/circles-stock-plummets-23-over-two-days-as-investors-flock-to-this-other-stablecoin-play-4f5c952c?mod=mw_rss_topstories",
+      "pubDate": "Wed, 25 Jun 2025 20:47:00 GMT"
     }
   ],
   "Politics": [
     {
-      "title": "Trump is slated to hold a press conference at the NATO summit",
+      "title": "Trump administration sues all of Maryland's federal judges over deportation order",
+      "link": "https://www.npr.org/2025/06/26/nx-s1-5445843/justice-department-maryland-judges-deportation",
+      "pubDate": "Thu, 26 Jun 2025 01:12:19 -0400"
+    },
+    {
+      "title": "Senators question Trump plan to kill federal funds for PBS, NPR and some foreign aid",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5445236/senate-hearing-rescissions-international-aid-npr-pbs",
+      "pubDate": "Wed, 25 Jun 2025 17:12:51 -0400"
+    },
+    {
+      "title": "As Democrats weigh left or center, New York mayoral primary results are in the spotlight",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5444880/as-democrats-weigh-left-or-center-new-york-mayoral-primary-results-are-in-the-spotlight",
+      "pubDate": "Wed, 25 Jun 2025 16:36:03 -0400"
+    },
+    {
+      "title": "Trump's signature policy bill is facing trouble on multiple fronts in the Senate",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5445185/trump-gop-megabill-senate",
+      "pubDate": "Wed, 25 Jun 2025 14:23:46 -0400"
+    },
+    {
+      "title": "4 things to know about Zohran Mamdani, presumptive Democratic nominee for NYC mayor",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5444846/zohran-mamdani-nyc-mayor-race",
+      "pubDate": "Wed, 25 Jun 2025 13:14:14 -0400"
+    },
+    {
+      "title": "Trump doubles down on damage U.S. strikes caused to Iran's nuclear sites",
       "link": "https://www.npr.org/2025/06/25/nx-s1-5435692/trump-nato-israel-iran",
       "pubDate": "Wed, 25 Jun 2025 07:00:00 -0400"
     },
     {
-      "title": "Trump's appeals judge nominee to face tough questions in Senate",
+      "title": "Trump's appeals judge nominee says he's no one's 'henchman'",
       "link": "https://www.npr.org/2025/06/25/g-s1-74064/trump-emil-bove-judge-nomination",
       "pubDate": "Wed, 25 Jun 2025 05:00:00 -0400"
     },
@@ -172,67 +197,207 @@
       "pubDate": "Wed, 25 Jun 2025 05:00:00 -0400"
     },
     {
-      "title": "Rep. Mike Quigley on intel suggesting limited damage to Iran's nuclear program",
-      "link": "https://www.npr.org/2025/06/25/nx-s1-5443639/rep-mike-quigley-on-intel-suggesting-limited-damage-to-irans-nuclear-program",
+      "title": "Rep. Mike Quigley tells Trump to 'put your ego in your pocket'",
+      "link": "https://www.npr.org/2025/06/25/nx-s1-5443639/iran-strikes-trump-obliterate",
       "pubDate": "Wed, 25 Jun 2025 04:19:00 -0400"
     },
     {
       "title": "Trump's pick for appeals judge draws controversy",
       "link": "https://www.npr.org/2025/06/25/nx-s1-5437823/trumps-pick-for-appeals-judge-draws-controversy",
       "pubDate": "Wed, 25 Jun 2025 04:11:33 -0400"
-    },
-    {
-      "title": "Zohran Mamdani set to defeat Cuomo in NYC mayoral primary upset",
-      "link": "https://www.npr.org/2025/06/25/nx-s1-5444734/zohran-mamdani-set-to-defeat-cuomo-in-nyc-mayoral-primary-upset",
-      "pubDate": "Wed, 25 Jun 2025 04:11:09 -0400"
-    },
-    {
-      "title": "Dispatches from the living memory of trans people of color",
-      "link": "https://www.npr.org/2025/06/25/1254697882/dispatches-from-the-living-memory-of-trans-people-of-color",
-      "pubDate": "Wed, 25 Jun 2025 03:00:59 -0400"
-    },
-    {
-      "title": "Trump says early report on damage to Iran's nuclear program was inconclusive",
-      "link": "https://www.npr.org/2025/06/24/nx-s1-5444303/iran-nuclear-program-u-s-strikes-intelligence-assessment",
-      "pubDate": "Tue, 24 Jun 2025 17:41:02 -0400"
-    },
-    {
-      "title": "Trump billed himself as a peacemaker, but 3 separate conflicts tell a different story",
-      "link": "https://www.npr.org/2025/06/24/nx-s1-5443548/trump-billed-himself-as-a-peacemaker-but-3-separate-conflicts-tell-a-different-story",
-      "pubDate": "Tue, 24 Jun 2025 17:00:29 -0400"
-    },
-    {
-      "title": "Proposal to sell millions of acres of public lands may be cut from Trump's mega-bill",
-      "link": "https://www.npr.org/2025/06/24/nx-s1-5442481/proposal-to-sell-millions-of-acres-of-public-lands-may-be-cut-from-trumps-mega-bill",
-      "pubDate": "Tue, 24 Jun 2025 16:46:14 -0400"
     }
   ],
   "Weather": [],
   "Stocks": [
     {
-      "title": "Pioneer Power secures $10M order from Charging-as-a-Service company",
-      "link": "https://finance.yahoo.com/news/pioneer-power-secures-10m-order-133613853.html",
-      "pubDate": "2025-06-25T13:36:13Z"
+      "title": "Remitly Global, Inc. (RELY): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/remitly-global-inc-rely-bull-173621048.html",
+      "pubDate": "2025-06-24T17:36:21Z"
     },
     {
-      "title": "Why FedEx Stock Is Diving After It Broke This Decade-Long Trend",
-      "link": "https://www.investors.com/news/fedex-stock-market-breaks-decade-long-trend-earnings/?src=A00220&yptr=yahoo",
-      "pubDate": "2025-06-25T13:32:33Z"
+      "title": "Expert: How To Grow Your Investments to $100K in 5 Years on an Average Salary",
+      "link": "https://finance.yahoo.com/news/expert-grow-investments-100k-5-173506664.html",
+      "pubDate": "2025-06-24T17:35:06Z"
     },
     {
-      "title": "Coinbase Flies On Lofty New Price Target As  Hot Stablecoin IPO Cools Off",
-      "link": "https://www.investors.com/news/coinbase-price-target-stablecoin-ipo-circle-internet-group/?src=A00220&yptr=yahoo",
-      "pubDate": "2025-06-25T13:27:45Z"
+      "title": "Meta Platforms, Inc. (META): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/meta-platforms-inc-meta-bull-173640725.html",
+      "pubDate": "2025-06-24T17:36:40Z"
     },
     {
-      "title": "Stock Market Today: Indexes Strive For Gains Ahead Of More Powell Testimony; FedEx Dives On Earnings (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-powell/?src=A00220&yptr=yahoo",
-      "pubDate": "2025-06-25T13:10:36Z"
+      "title": "Applied Digital Corporation (APLD): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/applied-digital-corporation-apld-bull-173423933.html",
+      "pubDate": "2025-06-24T17:34:23Z"
     },
     {
-      "title": "Nvidia Stock Set to Open Near Record High. Here’s What Could Keep It There.",
-      "link": "https://www.barrons.com/articles/nvidia-stock-price-record-high-adf5eed6?siteid=yhoof2&yptr=yahoo",
-      "pubDate": "2025-06-25T13:08:00Z"
+      "title": "Hilton Worldwide Holdings Inc. (HLT): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/hilton-worldwide-holdings-inc-hlt-173654742.html",
+      "pubDate": "2025-06-24T17:36:54Z"
+    },
+    {
+      "title": "AutoZone, Inc. (AZO): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/autozone-inc-azo-bull-case-173217818.html",
+      "pubDate": "2025-06-24T17:32:17Z"
+    },
+    {
+      "title": "ABM Industries Incorporated (ABM): A Bull Case Theory",
+      "link": "https://finance.yahoo.com/news/abm-industries-incorporated-abm-bull-173144110.html",
+      "pubDate": "2025-06-24T17:31:44Z"
+    },
+    {
+      "title": "Exelon Corp (EXC) Draws Bullish Options Bets After Unusual Volume Spike",
+      "link": "https://finance.yahoo.com/news/exelon-corp-exc-draws-bullish-173002912.html",
+      "pubDate": "2025-06-24T17:30:02Z"
+    },
+    {
+      "title": "If I Could Buy Only 1 Warren Buffett Stock Over the Next 10 Years, Pool Corp. Would Be It. Here's the Key Reason.",
+      "link": "https://finance.yahoo.com/news/could-buy-only-1-warren-173928513.html",
+      "pubDate": "2025-06-24T17:39:28Z"
+    },
+    {
+      "title": "Consumer Group Calls for McDonald’s Boycott. What It Means for the Stock.",
+      "link": "https://www.barrons.com/articles/consumer-group-calls-for-mcdonalds-boycott-what-it-means-for-the-stock-ed590b90?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-24T17:42:00Z"
+    },
+    {
+      "title": "Buy These 3 High-Yield Dividend Stocks for Portfolio Protection Amid Israel-Iran Conflict",
+      "link": "https://finance.yahoo.com/news/buy-3-high-yield-dividend-174418306.html",
+      "pubDate": "2025-06-24T17:44:18Z"
+    },
+    {
+      "title": "Upstart Stock Is Rising. Why This Analyst Says It’s a Smart AI Play.",
+      "link": "https://www.barrons.com/articles/upstart-stock-ai-bank-loans-d7978204?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-24T17:45:00Z"
+    },
+    {
+      "title": "Coinbase Stock Leads S&P 500 Gainers as Crypto Trading Platform Keeps Rallying",
+      "link": "https://finance.yahoo.com/news/coinbase-stock-leads-p-500-173935367.html",
+      "pubDate": "2025-06-24T17:39:35Z"
+    },
+    {
+      "title": "Canada Inflation Steady at 1.7% in May",
+      "link": "https://www.wsj.com/articles/canada-inflation-steady-at-1-7-in-may-05eb864c?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-24T17:51:00Z"
+    },
+    {
+      "title": "Should you make 1 extra mortgage payment per year? Here are 3 benefits.",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/one-extra-mortgage-payment-per-year-185030812.html",
+      "pubDate": "2024-06-11T18:50:30Z"
+    },
+    {
+      "title": "CEO Jensen Huang Just Sold Nvidia Stock. Should You?",
+      "link": "https://finance.yahoo.com/news/ceo-jensen-huang-just-sold-175209880.html",
+      "pubDate": "2025-06-24T17:52:09Z"
+    },
+    {
+      "title": "Bitcoin Miner CleanSpark Hits 50 EH/s Hashrate Milestone",
+      "link": "https://finance.yahoo.com/news/bitcoin-miner-cleanspark-hits-50-174444233.html",
+      "pubDate": "2025-06-24T17:44:44Z"
+    },
+    {
+      "title": "The AI Trade Is Back—and Better Than Ever",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062425/card/the-ai-trade-is-back-and-better-than-ever-ZDkMdzMkgtmdISBWhbBm?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-24T17:58:10Z"
+    },
+    {
+      "title": "SoFi mortgage review 2025",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/review/sofi-mortgage-review-194848491.html",
+      "pubDate": "2024-08-05T19:48:48Z"
+    },
+    {
+      "title": "Ambarella Stock Soars on Report It’s Exploring a Sale",
+      "link": "https://www.barrons.com/articles/ambarella-stock-report-sale-e68981a7?siteid=yhoof2&yptr=yahoo",
+      "pubDate": "2025-06-24T18:02:00Z"
+    },
+    {
+      "title": "Circle Drops 15%, Stock Frenzy Cools as BIS Warns of Stablecoin Risks",
+      "link": "https://finance.yahoo.com/news/circle-drops-15-stock-frenzy-175447373.html",
+      "pubDate": "2025-06-24T17:54:47Z"
+    },
+    {
+      "title": "Cigna Enhances myCigna Platform With AI Assistant, Personalized Care, Cost Tools",
+      "link": "https://finance.yahoo.com/news/cigna-enhances-mycigna-platform-ai-180602378.html",
+      "pubDate": "2025-06-24T18:06:02Z"
+    },
+    {
+      "title": "Carnival Corp's Free Cash Flow Surges - CCL Stock Looks Deeply Undervalued",
+      "link": "https://finance.yahoo.com/news/carnival-corps-free-cash-flow-180524714.html",
+      "pubDate": "2025-06-24T18:05:24Z"
+    },
+    {
+      "title": "Quantum Computing (QUBT) Loses 7.3% on Sudden Management Shakeup",
+      "link": "https://finance.yahoo.com/news/quantum-computing-qubt-loses-7-180625843.html",
+      "pubDate": "2025-06-24T18:06:25Z"
+    },
+    {
+      "title": "APA Corp. (APA) Sheds 7.9% as Oil Prices Stabilize",
+      "link": "https://finance.yahoo.com/news/apa-corp-apa-sheds-7-180614773.html",
+      "pubDate": "2025-06-24T18:06:14Z"
+    },
+    {
+      "title": "Why Shares in Advanced Auto Parts Crashed Today",
+      "link": "https://finance.yahoo.com/news/why-shares-advanced-auto-parts-175842208.html",
+      "pubDate": "2025-06-24T17:58:42Z"
+    },
+    {
+      "title": "Astera Labs (ALAB) Drops 7.66% on Profit-Taking",
+      "link": "https://finance.yahoo.com/news/astera-labs-alab-drops-7-180614432.html",
+      "pubDate": "2025-06-24T18:06:14Z"
+    },
+    {
+      "title": "Analyst Report: Fortive Corp",
+      "link": "https://finance.yahoo.com/research/reports/ARGUS_3681_AnalystReport_1750876406000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "pubDate": "2025-06-25T18:33:26Z"
+    },
+    {
+      "title": "Li Auto (LI) Grows 8% on New EV Launch",
+      "link": "https://finance.yahoo.com/news/li-auto-li-grows-8-180854283.html",
+      "pubDate": "2025-06-24T18:08:54Z"
+    },
+    {
+      "title": "Arm Reaches For New Highs After Laying Groundwork For The AI Revolution",
+      "link": "https://www.investors.com/news/technology/arm-holdings-adr-hits-80-plus-relative-strength-rating-benchmark/?src=A00220&yptr=yahoo",
+      "pubDate": "2025-06-24T18:04:44Z"
+    },
+    {
+      "title": "BRF SA (BRFS) Rallies 7.78% on Merger Deal Vote With Marfrig",
+      "link": "https://finance.yahoo.com/news/brf-sa-brfs-rallies-7-180905168.html",
+      "pubDate": "2025-06-24T18:09:05Z"
+    },
+    {
+      "title": "Mastercard forms stablecoin pacts with Paxos, PayPal, Fiserv",
+      "link": "https://finance.yahoo.com/news/mastercard-forms-stablecoin-pacts-paxos-175943142.html",
+      "pubDate": "2025-06-24T17:59:43Z"
+    },
+    {
+      "title": "Lumen Technologies (LUMN) Jumps 7.6% on AI-Powered Typhoon Readiness",
+      "link": "https://finance.yahoo.com/news/lumen-technologies-lumn-jumps-7-180915152.html",
+      "pubDate": "2025-06-24T18:09:15Z"
+    },
+    {
+      "title": "Schlumberger (SLB) Drops 5.89% on Israel-Iran Ceasefire",
+      "link": "https://finance.yahoo.com/news/schlumberger-slb-drops-5-89-180702625.html",
+      "pubDate": "2025-06-24T18:07:02Z"
+    },
+    {
+      "title": "Ovintiv (OVV) Declines 6.2% as Israel, Iran Agree to Pause Strikes",
+      "link": "https://finance.yahoo.com/news/ovintiv-ovv-declines-6-2-180650375.html",
+      "pubDate": "2025-06-24T18:06:50Z"
+    },
+    {
+      "title": "Zeta Global (ZETA) Jumps 18.55% as Analyst Turns Bullish on Stock",
+      "link": "https://finance.yahoo.com/news/zeta-global-zeta-jumps-18-180721102.html",
+      "pubDate": "2025-06-24T18:07:21Z"
+    },
+    {
+      "title": "Bitcoin, Ethereum, XRP, Dogecoin Consolidate After Israel-Iran Ceasefire Rally",
+      "link": "https://finance.yahoo.com/news/bitcoin-ethereum-xrp-dogecoin-consolidate-180120408.html",
+      "pubDate": "2025-06-24T18:01:20Z"
+    },
+    {
+      "title": "LVS Stock Down 23%—Stifel Sees Buy Opportunity Amid Macau Recovery Hopes",
+      "link": "https://finance.yahoo.com/news/lvs-stock-down-23-stifel-180604202.html",
+      "pubDate": "2025-06-24T18:06:04Z"
     },
     {
       "title": "Daily – Vickers Top Insider Picks for 06/25/2025",
@@ -240,214 +405,14 @@
       "pubDate": "2025-06-25T12:36:52Z"
     },
     {
-      "title": "Jim Leighton takes helm at Village Gourmet",
-      "link": "https://finance.yahoo.com/news/jim-leighton-takes-helm-village-132524905.html",
-      "pubDate": "2025-06-25T13:25:24Z"
+      "title": "Halliburton (HAL) Drops 6.78% on Israel-Iran Ceasefire",
+      "link": "https://finance.yahoo.com/news/halliburton-hal-drops-6-78-180635314.html",
+      "pubDate": "2025-06-24T18:06:35Z"
     },
     {
-      "title": "Rubrik Stock Is Rising. An Acquisition Will Bolster Its AI Offerings.",
-      "link": "https://www.barrons.com/articles/rubrik-ai-stockk-predibase-ced2df98?siteid=yhoof2&yptr=yahoo",
-      "pubDate": "2025-06-25T13:08:00Z"
-    },
-    {
-      "title": "This Defense Stock Is Jumping After Sales Soar 40%",
-      "link": "https://www.barrons.com/articles/aerovironment-earnings-stock-price-d7c9eed9?siteid=yhoof2&yptr=yahoo",
-      "pubDate": "2025-06-25T13:00:00Z"
-    },
-    {
-      "title": "SoFi Plans Return to Crypto With Blockchain Initiative. Bitcoin Trading Is Coming.",
-      "link": "https://www.barrons.com/articles/sofi-bitcoin-crypto-blockchain-3ddc4610?siteid=yhoof2&yptr=yahoo",
-      "pubDate": "2025-06-25T13:00:00Z"
-    },
-    {
-      "title": "Santander to sell seven Pennsylvania branches to Community Bank",
-      "link": "https://finance.yahoo.com/news/santander-sell-seven-pennsylvania-branches-125200365.html",
-      "pubDate": "2025-06-25T12:52:00Z"
-    },
-    {
-      "title": "Daily – Vickers Top Buyers & Sellers for 06/25/2025",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_43918_TopBottomInsiderActivity_1750855012000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "pubDate": "2025-06-25T12:36:52Z"
-    },
-    {
-      "title": "Surface mining: assessing global equipment trends",
-      "link": "https://finance.yahoo.com/news/surface-mining-assessing-global-equipment-132031046.html",
-      "pubDate": "2025-06-25T13:20:31Z"
-    },
-    {
-      "title": "These Stocks Are Moving the Most Today: FedEx, QuantumScape, BlackBerry, Worthington, Coinbase, Nvidia, Micron, and More",
-      "link": "https://www.barrons.com/articles/stock-movers-2c7b88c7?siteid=yhoof2&yptr=yahoo",
-      "pubDate": "2025-06-25T12:50:00Z"
-    },
-    {
-      "title": "10-Year Notes Break Out of Slumber",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062525/card/10-year-notes-break-out-of-slumber-658mgIwEpjECGw3BegCD?siteid=yhoof2&yptr=yahoo",
-      "pubDate": "2025-06-25T12:46:45Z"
-    },
-    {
-      "title": "Soybean Pressure Continuing on Wednesday Morning",
-      "link": "https://finance.yahoo.com/news/soybean-pressure-continuing-wednesday-morning-123544039.html",
-      "pubDate": "2025-06-25T12:35:44Z"
-    },
-    {
-      "title": "Analyst Report: CarMax Inc",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_4095_AnalystReport_1750849687000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "pubDate": "2025-06-25T11:08:07Z"
-    },
-    {
-      "title": "2 Important Medicare Issues That Suze Orman Wants You To Understand",
-      "link": "https://finance.yahoo.com/news/2-important-medicare-issues-aware-120023951.html",
-      "pubDate": "2025-06-25T13:02:25Z"
-    },
-    {
-      "title": "Corn Extending Losses on Wet Weather Pattern",
-      "link": "https://finance.yahoo.com/news/corn-extending-losses-wet-weather-123544549.html",
-      "pubDate": "2025-06-25T12:35:44Z"
-    },
-    {
-      "title": "Nvidia stock looks to extend gains, notch record high in remarkable 2025 turnaround",
-      "link": "https://finance.yahoo.com/news/nvidia-stock-looks-to-extend-gains-notch-record-high-in-remarkable-2025-turnaround-183528616.html",
-      "pubDate": "2025-06-24T18:35:28Z"
-    },
-    {
-      "title": "Tesla’s European Sales Stunk. Why the Stock Is Rising.",
-      "link": "https://www.barrons.com/articles/tesla-stock-price-european-sales-robotaxi-ai-660d540b?siteid=yhoof2&yptr=yahoo",
-      "pubDate": "2025-06-25T12:21:00Z"
-    },
-    {
-      "title": "QuantumScape Stock Is Soaring. Groundbreaking EV Battery Tech Is Almost Here.",
-      "link": "https://www.barrons.com/articles/quantumscape-stock-ev-battery-2673109a?siteid=yhoof2&yptr=yahoo",
-      "pubDate": "2025-06-25T12:12:00Z"
-    },
-    {
-      "title": "Analyst Report: Dow Inc",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_4899_AnalystReport_1750849687000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "pubDate": "2025-06-25T11:08:07Z"
-    },
-    {
-      "title": "Amazon vs. Walmart: Which Is a Better Stock Buy?",
-      "link": "https://finance.yahoo.com/news/amazon-vs-walmart-stock-better-202010440.html",
-      "pubDate": "2025-06-25T13:02:09Z"
-    },
-    {
-      "title": "The U.S. Has a Debt Problem. How ‘Financial Repression’ Could Help Solve It.",
-      "link": "https://www.barrons.com/articles/us-debt-financial-repression-treasuries-a8685984?siteid=yhoof2&yptr=yahoo",
-      "pubDate": "2025-06-25T12:11:00Z"
-    },
-    {
-      "title": "Is A. O. Smith Stock Underperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/news/o-smith-stock-underperforming-p-121049217.html",
-      "pubDate": "2025-06-25T12:10:49Z"
-    },
-    {
-      "title": "Stock Futures Rise as Investors Weigh Up Middle-East Truce and Fed Rate Cuts",
-      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062525/card/stock-futures-edge-up-as-investors-weigh-up-middle-east-truce-and-rate-cuts-nFwM0h3DYe2RmJNp3fIq?siteid=yhoof2&yptr=yahoo",
-      "pubDate": "2025-06-25T12:09:24Z"
-    },
-    {
-      "title": "Why Berkshire Hathaway Class A Stock Is a Better Bet Than Class B—If You Can Afford It",
-      "link": "https://www.barrons.com/articles/berkshire-hathaway-stock-price-warren-buffett-2219d405?siteid=yhoof2&yptr=yahoo",
-      "pubDate": "2025-06-25T12:07:00Z"
-    },
-    {
-      "title": "Daily Spotlight: Three Signals from Dividend Growth",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_43914_MarketOutlook_1750849537000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "pubDate": "2025-06-25T11:05:37Z"
-    },
-    {
-      "title": "CD Maturing in a Low-Rate Market? Here’s a Plan From a Financial Planner",
-      "link": "https://finance.yahoo.com/news/cd-maturing-low-rate-market-130136732.html",
-      "pubDate": "2025-06-25T13:01:36Z"
-    },
-    {
-      "title": "Buy Kinder Morgan Stock. Natural Gas and AI Are a Potent Combination.",
-      "link": "https://www.barrons.com/articles/kinder-morgan-stock-price-buy-ai-natural-gas-5ed416f9?siteid=yhoof2&yptr=yahoo",
-      "pubDate": "2025-06-25T12:04:00Z"
-    },
-    {
-      "title": "Gold Futures Rise on Lingering Safe-Haven Demand",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-steady-amid-fed-rate-cut-prospects-d3a50927?siteid=yhoof2&yptr=yahoo",
-      "pubDate": "2025-06-25T12:04:00Z"
-    },
-    {
-      "title": "What To Buy: Why The Price-Earnings Ratio Is A Useless Indicator",
-      "link": "https://www.investors.com/how-to-invest/investors-corner/price-earnings-ratio-is-useless-stock-indicator/?src=A00220&yptr=yahoo",
-      "pubDate": "2025-06-25T12:00:47Z"
-    },
-    {
-      "title": "Israel-Iran Ceasefire Lifts Travel Giant. But That's Not All.",
-      "link": "https://www.investors.com/research/breakout-stocks-technical-analysis/booking-stock-bkng-agentic-ai-expedia/?src=A00220&yptr=yahoo",
-      "pubDate": "2025-06-25T12:00:19Z"
-    },
-    {
-      "title": "Technical Assessment: Bullish in the Intermediate-Term",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_43913_TechnicalAnalysis_1750849457000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "pubDate": "2025-06-25T11:04:17Z"
-    },
-    {
-      "title": "Cathie Wood Is Doubling Down on This AI Stock. Should You?",
-      "link": "https://finance.yahoo.com/news/cathie-wood-doubling-down-ai-130000451.html",
-      "pubDate": "2025-06-25T13:00:00Z"
-    },
-    {
-      "title": "Best and Worst Stocks to Own Over July 4th Week",
-      "link": "https://finance.yahoo.com/news/best-worst-stocks-own-over-120012490.html",
-      "pubDate": "2025-06-25T12:00:12Z"
-    },
-    {
-      "title": "Gas Prices Are Down for Summer Driving Season Despite Middle East Turmoil",
-      "link": "https://www.wsj.com/business/energy-oil/summer-gas-prices-iran-israel-0d586038?siteid=yhoof2&yptr=yahoo",
-      "pubDate": "2025-06-25T12:00:00Z"
-    },
-    {
-      "title": "Crude Oil Price Volatility Offers a Lesson for ETF Investors",
-      "link": "https://finance.yahoo.com/news/crude-oil-price-volatility-offers-120000213.html",
-      "pubDate": "2025-06-25T12:00:00Z"
-    },
-    {
-      "title": "JPMorgan Leads All in Active Fund Growth, Report Says",
-      "link": "https://finance.yahoo.com/news/jpmorgan-leads-active-fund-growth-120000129.html",
-      "pubDate": "2025-06-25T12:00:00Z"
-    },
-    {
-      "title": "Market Digest: AAPL, CCL, KMX, MCK, DOW, DUOL",
-      "link": "https://finance.yahoo.com/research/reports/ARGUS_43911_MarketSummary_1750848787000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "pubDate": "2025-06-25T10:53:07Z"
-    },
-    {
-      "title": "The US food and drinks industry needs immigrant labour – but the system requires reform",
-      "link": "https://finance.yahoo.com/news/us-food-drinks-industry-needs-125855011.html",
-      "pubDate": "2025-06-25T12:58:55Z"
-    },
-    {
-      "title": "Is AMD Stock Finally Winning Over Wall Street?",
-      "link": "https://finance.yahoo.com/news/amd-stock-finally-winning-over-115922315.html",
-      "pubDate": "2025-06-25T11:59:22Z"
-    },
-    {
-      "title": "Gold price today, Wednesday, June 25, 2025: Gold lags last week as consumer confidence falls",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-june-25-2025-gold-lags-last-week-as-consumer-confidence-falls-115502896.html",
-      "pubDate": "2025-06-24T11:55:02Z"
-    },
-    {
-      "title": "Warren Buffett Warns ‘Thumbsucking’ is ‘the Cardinal Sin’ in Business Because It’s ‘Delaying the Correction of Mistakes’",
-      "link": "https://finance.yahoo.com/news/warren-buffett-warns-thumbsucking-cardinal-115445414.html",
-      "pubDate": "2025-06-25T11:54:45Z"
-    },
-    {
-      "title": "Winnebago Cuts Revenue, Profit Outlook After Declines",
-      "link": "https://www.wsj.com/business/earnings/winnebago-cuts-revenue-profit-outlook-after-declines-0b3a9053?siteid=yhoof2&yptr=yahoo",
-      "pubDate": "2025-06-25T11:52:00Z"
-    },
-    {
-      "title": "The US food industry needs immigrant labour – but the system requires reform",
-      "link": "https://finance.yahoo.com/news/us-food-industry-needs-immigrant-125855702.html",
-      "pubDate": "2025-06-25T12:58:55Z"
-    },
-    {
-      "title": "Tencent Shareholder Prosus Expects Profitability to Be Boosted by AI",
-      "link": "https://www.wsj.com/tech/ai/tencent-shareholder-prosus-expects-profitability-to-be-boosted-by-ai-4f2741a9?siteid=yhoof2&yptr=yahoo",
-      "pubDate": "2025-06-25T11:49:00Z"
+      "title": "The average down payment on a house in 2025",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/average-down-payment-on-a-house-182153085.html",
+      "pubDate": "2024-10-01T18:21:53Z"
     },
     {
       "title": "Jobless claims stay low in latest week",

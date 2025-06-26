@@ -1,0 +1,48 @@
+
+.category-nav-sticky {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 10;
+  padding: 1rem 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.category-nav {
+  display: flex;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none; /* Firefox */
+}
+
+.category-nav::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+
+.category-tab {
+  padding: 12px 24px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: none;
+  background-color: #f0f0f0;
+  color: #333;
+  margin-right: 12px;
+  white-space: nowrap;
+}
+
+.category-tab:hover {
+  background-color: #e0e0e0;
+}
+
+.category-tab.active {
+  background-color: #333;
+  color: white;
+}
+
+.category-tab.dont-miss {
+  background-color: #FFB800;
+  color: black;
+}

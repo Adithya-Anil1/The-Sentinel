@@ -2,6 +2,8 @@ import { useState, useEffect } from 'react'
 import axios from 'axios'
 import './App.css'
 import TrendingArticles from './components/TrendingArticles'
+import CategoryNavigation from './components/CategoryNavigation'
+import ArticleGrid from './components/ArticleGrid'
 
 function App() {
   const [articles, setArticles] = useState({})
@@ -276,6 +278,14 @@ function App() {
 
       {/* Trending Articles Hero Section */}
       <TrendingArticles articles={trendingArticles} />
+
+      {/* Category Navigation */}
+      <CategoryNavigation />
+
+      {/* Main Article Grid */}
+      <main className="main-content">
+        <ArticleGrid articles={trendingArticles} />
+      </main>
 
       {/* Enhanced Sticky Navigation */}
       <nav className="nav-bar">

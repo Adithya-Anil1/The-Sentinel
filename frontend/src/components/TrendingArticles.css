@@ -9,49 +9,69 @@
 
 .featured-article-card, .small-article-card {
   position: relative;
-  background-size: cover;
-  background-position: center;
   border-radius: 4px;
   overflow: hidden;
   color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  transition: all 0.3s ease;
 }
 
-.card-overlay {
+.background-image {
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.5);
+  background-size: cover;
+  background-position: center;
+  transition: all 0.3s ease;
+}
+
+.featured-article-card:hover .background-image, .small-article-card:hover .background-image {
+  transform: scale(1.05);
+}
+
+.card-overlay {
+  position: relative;
+  z-index: 1;
+  background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.6));
+  padding: 24px;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  padding: 1.5rem;
+  flex-grow: 1;
 }
 
 .card-content {
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.7);
+  text-shadow: 0 2px 4px rgba(0,0,0,0.8);
 }
 
 .category-tag {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  z-index: 2;
   background-color: #ffc107;
-  color: black;
+  color: white;
   padding: 4px 8px;
   border-radius: 4px;
   font-size: 0.8rem;
   font-weight: bold;
-  display: inline-block;
-  margin-bottom: 1rem;
 }
 
 .article-title {
-  font-size: 2rem;
+  font-size: 24px;
   font-weight: bold;
+  color: white;
+  line-height: 1.2;
   margin: 0.5rem 0;
 }
 
 .article-meta {
-  font-size: 0.9rem;
+  font-size: 14px;
+  color: rgba(255,255,255,0.8);
 }
 
 .other-articles {
@@ -62,14 +82,4 @@
 
 .small-article-card {
   flex: 1;
-}
-
-.article-title-small {
-  font-size: 1.2rem;
-  font-weight: bold;
-  margin: 0.5rem 0;
-}
-
-.article-meta-small {
-  font-size: 0.8rem;
 }
