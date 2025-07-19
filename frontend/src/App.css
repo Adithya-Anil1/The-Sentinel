@@ -177,3 +177,56 @@ body {
 .card-date {
   color: #999;
 }
+
+/* Loading Skeleton */
+.skeleton-card {
+  background: #1f1f1f;
+  border-radius: 8px;
+  height: 200px;
+  margin-bottom: 20px;
+  padding: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.skeleton-card::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -150%;
+  width: 150%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.05) 50%, rgba(255,255,255,0) 100%);
+  animation: shimmer 2s infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    left: -150%;
+  }
+  100% {
+    left: 150%;
+  }
+}
+
+.skeleton-line {
+  background: #333;
+  border-radius: 4px;
+  height: 16px;
+  margin: 10px 0;
+}
+
+.skeleton-line.title {
+  height: 20px;
+  width: 80%;
+}
+
+.skeleton-line.subtitle {
+  height: 14px;
+  width: 60%;
+}
+
+.skeleton-line.content {
+  height: 12px;
+  width: 90%;
+}
