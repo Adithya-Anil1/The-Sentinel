@@ -161,5 +161,3 @@ You now have a fully functional, end-to-end web application. As your lead develo
 - **Deploy It:** Deploy your backend to Render and your frontend to Vercel so you can share a live URL with anyone.
 
 ---
-
-Follow this plan, and you will not only learn an immense amount but also have an impressive, working project for your portfolio. Let's get building.
